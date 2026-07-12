@@ -36,10 +36,10 @@ Como o projeto já nasce com mais de uma linguagem, os papéis marcados com 🌐
 | Papel | O que faz | Responsável(is) |
 |---|---|---|
 | 🔧 Mantenedor do repositório | Aprova merges de `develop` → `main`, e mantém README/CONTRIBUTING atualizados | _a preencher_ |
-| 📋 Organização do Trello | Mantém o quadro em dia, evita temas duplicados, sinaliza cards parados | _a preencher_ |
-| 👀 Revisor (Code Review) 🌐 | Revisa PRs seguindo a checklist antes do merge em `develop` | Java: _a preencher_ <br> Outra linguagem: _a preencher_ |
-| 🎯 Qualidade didática 🌐 | Garante que o conteúdo ensina de verdade, aplicando a Regra de Ouro com rigor | Java: _a preencher_ <br> Outra linguagem: _a preencher_ |
-| 🚪 Onboarding | Recebe novos colaboradores, explica o fluxo e adiciona no GitHub | _a preencher_ |
+| 📋 Organização do Trello | Mantém o quadro em dia, evita temas duplicados, sinaliza cards parados | [Afonso Gabriel](https://github.com/1colossos)  <br>
+| 👀 Revisor (Code Review) 🌐 | Revisa PRs seguindo a checklist antes do merge em `develop` | JavaScript: [Gabriel Ferreira](https://github.com/gsilvatech) <br> JavaScript: [Daniella Dantas](https://github.com/dani-dantas) |
+| 🎯 Qualidade didática 🌐 | Garante que o conteúdo ensina de verdade, aplicando a Regra de Ouro com rigor | Java: [Robson Morcineck](https://github.com/Morcineck)  <br> JavaScript: [Gabriel Ferreira](https://github.com/gsilvatech)  <br> JavaScript: [Daniella Dantas](https://github.com/dani-dantas) 
+| 🚪 Onboarding | Recebe novos colaboradores, explica o fluxo e adiciona no GitHub | Trabalho Feito por todos os integrantes da equipe |
 | 📣 Comunicação | Envia resumos e avisos ao time | _a preencher_ |
  
 > Atualize esta tabela conforme o time se organiza. Se uma linguagem nova for adicionada ao projeto (ver [Adicionando uma nova linguagem](#-adicionando-uma-nova-linguagem)), inclua uma linha de Revisor e Qualidade didática correspondentes antes de aceitar PRs nela.
