@@ -8,7 +8,7 @@ Obrigado por querer contribuir com o **Código Comentado**! Este guia explica co
 
 > **Todo Pull Request deve agregar conhecimento, não apenas código.**
 
-Isso significa que qualquer contribuição precisa ensinar algo para a próxima pessoa que ler o arquivo — não apenas "funcionar". Todo o resto deste guia existe para viabilizar essa regra na prática.
+Isso significa que qualquer contribuição precisa ensinar algo para a próxima pessoa que ler o arquivo, não apenas "funcionar". Todo o resto deste guia existe para viabilizar essa regra na prática.
 
 ---
 
@@ -140,8 +140,8 @@ O projeto usa três camadas de branch:
 
 | Branch | Papel |
 |---|---|
-| `main` | Versão validada e "oficial" do projeto — o que aparece pronto para quem visita o repositório |
-| `develop` | Branch de integração — onde os temas concluídos se encontram antes de ir para `main` |
+| `main` | Versão validada e "oficial" do projeto o que aparece pronto para quem visita o repositório |
+| `develop` | Branch de integração onde os temas concluídos se encontram antes de ir para `main` |
 | `feature/<categoria>-<tema>` | Uma branch por tema, criada a partir de `develop` |
 
 ### Fluxo
