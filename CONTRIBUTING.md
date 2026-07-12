@@ -57,7 +57,7 @@ src/python/poo/a03_self.py
 
 Todo arquivo de conteúdo deve conter, nesta ordem:
 
-1. **Cabeçalho** — tema, nível (🟢🟡🔴🟣), autor, última atualização, pré-requisitos, tempo estimado.
+1. **Cabeçalho** —> tema, nível (🟢🟡🔴🟣), autor, última atualização, pré-requisitos, tempo estimado.
 2. **O que é?**
 3. **Como funciona?**
 4. **Por que existe?**
@@ -129,7 +129,7 @@ Se a linguagem que você quer usar ainda não existe no projeto:
 1. Crie um card no Trello, na coluna **Backlog**, explicando a motivação para a nova linguagem.
 2. Aguarde aprovação de pelo menos um mantenedor.
 3. Crie a pasta `src/<linguagem>/` replicando as mesmas categorias já existentes (`poo/`, `collections/`, etc.), adaptando apenas o que fizer sentido para a linguagem.
-4. O arquivo deve seguir o mesmo padrão obrigatório descrito acima — só a sintaxe muda, a estrutura didática não.
+4. O arquivo deve seguir o mesmo padrão obrigatório descrito acima, só a sintaxe muda, a estrutura didática não.
 5. Comece por um tema equivalente a um já existente em Java (ex: `A03_This.java` → `a03_self.py`), para facilitar a comparação entre linguagens.
 
 ---
@@ -155,7 +155,7 @@ feature/poo-this  ──PR──▶  develop  ──PR──▶  main
 3. Após aprovado, a branch é mergeada em `develop`.
 4. Periodicamente, um mantenedor abre um PR de `develop` → `main`, promovendo o conteúdo já validado para a versão oficial do projeto.
 
-Nunca commite diretamente em `main` ou `develop` — todo conteúdo entra por PR, mesmo o de mantenedores.
+Nunca commite diretamente em `main` ou `develop` , todo conteúdo entra por PR, mesmo o de mantenedores.
 
 ### Nomenclatura das branches de feature
 
