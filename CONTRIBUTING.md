@@ -12,6 +12,21 @@ Isso significa que qualquer contribuição precisa ensinar algo para a próxima 
 
 ---
 
+## 🤖 Uso de Inteligência Artificial
+
+Ferramentas de IA (ChatGPT, Copilot, Claude, etc.) podem ser usadas neste projeto, mas de forma **responsável**.
+
+O que isso significa na prática:
+
+- **Não** peça para a IA gerar o código, os comentários ou as explicações prontas e simplesmente copie e cole no arquivo.
+- É esperado que você entenda cada linha do que está enviando no Pull Request, se alguém perguntar "por que você fez assim?", você precisa saber responder sem depender da IA para isso.
+- Use a IA para tirar dúvidas, validar um raciocínio, revisar clareza de um texto já escrito por você, ou explorar abordagens alternativas, não para pular a etapa de aprender.
+- Se um trecho de código ou explicação foi inspirado por uma resposta de IA, reescreva com suas próprias palavras antes de submeter. O objetivo do projeto é o **seu** entendimento, não a produção de conteúdo.
+
+**A IA é uma ferramenta de apoio à evolução do desenvolvedor, não uma dependência.** Um PR que "funciona" mas cujo autor não consegue explicar não cumpre a Regra de Ouro do projeto e será tratado como incompleto no Code Review.
+
+---
+
 ## 🧭 Como escolher um tema
 
 O controle do que está sendo desenvolvido é feito pelo **Trello** do projeto, não por Issues do GitHub.
