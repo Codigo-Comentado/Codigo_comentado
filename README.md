@@ -3,6 +3,10 @@
 > **Aprender Programação Ensinando Programação**
  
 Um repositório colaborativo onde cada conceito de programação é explicado através do próprio código, não apenas escrito, mas comentado, justificado e ensinado.
+
+---
+
+> 🧭 Novo no projeto? Comece por aqui: [GETTING_STARTED.md](./GETTING_STARTED.md)
  
 ---
  
