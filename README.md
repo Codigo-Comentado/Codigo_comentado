@@ -2,7 +2,7 @@
 
 > **Aprender Programação Ensinando Programação**
 
-Um repositório colaborativo onde cada conceito de programação é explicado através do próprio código — não apenas escrito, mas comentado, justificado e ensinado.
+Um repositório colaborativo onde cada conceito de programação é explicado através do próprio código, não apenas escrito, mas comentado, justificado e ensinado.
 
 ---
 
@@ -95,7 +95,7 @@ src/
         └── a03_self.py
 ```
 
-Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício) — só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício) só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 
 ---
 
@@ -112,19 +112,19 @@ Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, a
 
 ## 🗺️ Roadmap
 
-**Fase 1 — Fundação**
+**Fase 1 -> Fundação**
 Lógica de programação · Estruturas de controle · Métodos · POO
 
-**Fase 2 — Estruturas avançadas**
+**Fase 2 -> Estruturas avançadas**
 Collections · Exceptions · Generics · Streams
 
-**Fase 3 — Ecossistema Spring**
+**Fase 3 -> Ecossistema Spring**
 Spring Boot · JPA · Hibernate · Security · Docker
 
-**Fase 4 — Projetos reais**
+**Fase 4 -> Projetos reais**
 Sistema bancário · CRUD completo · API REST · Microsserviços · Autenticação JWT · Deploy
 
-**Fase 5 — Expansão multi-linguagem**
+**Fase 5 -> Expansão multi-linguagem**
 Replicar o mesmo padrão didático para outras linguagens (Python, JavaScript, etc.), mantendo a mesma metodologia de ensino por código comentado.
 
 ---
