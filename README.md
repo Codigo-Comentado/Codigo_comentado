@@ -1,49 +1,50 @@
 # 🚀 Código Comentado
- 
+
 > **Aprender Programação Ensinando Programação**
- 
-Um repositório colaborativo onde cada conceito de programação é explicado através do próprio código, não apenas escrito, mas comentado, justificado e ensinado.
- 
+
+Um repositório colaborativo onde cada conceito de programação é explicado através do próprio código — não apenas escrito, mas comentado, justificado e ensinado.
+
 ---
- 
+
 ## 💡 O problema que queremos resolver
- 
+
 Existem milhares de repositórios com código de estudo no GitHub. A maioria mostra **o quê** e **como** fazer.
- 
+
 Poucos explicam **por quê**.
- 
+
 ```java
 this.nome = nome;
 ```
- 
+
 Qualquer pessoa aprende a escrever essa linha. Poucas entendem por que o `this` existe, que problema ele resolve, e quando ele realmente é necessário.
- 
-Este projeto nasce para preencher essa lacuna: transformar cada arquivo de código em um pequeno capítulo de aprendizado, com raciocínio, analogias e decisões explicadas, não só sintaxe.
- 
+
+Este projeto nasce para preencher essa lacuna: transformar cada arquivo de código em um pequeno capítulo de aprendizado, com raciocínio, analogias e decisões explicadas — não só sintaxe.
+
 ---
- 
+
 ## 🎯 Objetivos
- 
+
 Ao contribuir com este projeto, o time pratica:
- 
+
 - Lógica de programação e estruturas de dados
 - Orientação a Objetos
 - Frameworks (ex: Spring Boot)
 - Git e GitHub no fluxo real de um projeto colaborativo
 - Escrita técnica e documentação
 - Code Review e trabalho em equipe
+
 Tudo isso dentro de um único projeto, com propósito e padrão definidos.
- 
+
 ---
- 
+
 ## 🥇 Regra de Ouro do Projeto
- 
+
 > **Todo Pull Request deve agregar conhecimento, não apenas código.**
- 
+
 O objetivo de um PR não é apenas adicionar uma funcionalidade ou exemplo, mas deixar o repositório mais útil para quem está aprendendo.
- 
+
 Antes de aprovar um PR, o revisor deve conseguir responder "sim" a estas perguntas:
- 
+
 - [ ] O código funciona corretamente?
 - [ ] A explicação está tecnicamente correta?
 - [ ] O autor explicou *por que* tomou aquela decisão?
@@ -51,12 +52,13 @@ Antes de aprovar um PR, o revisor deve conseguir responder "sim" a estas pergunt
 - [ ] Existe uma analogia que facilite o entendimento?
 - [ ] Foram destacadas boas práticas e erros comuns?
 - [ ] Um iniciante conseguiria aprender aquele conceito apenas lendo o arquivo?
+
 **Um Pull Request só está completo quando ensina algo novo para a próxima pessoa que o ler.**
- 
+
 ---
- 
+
 ## 📂 Estrutura do repositório
- 
+
 ```
 codigo-comentado/
 ├── README.md
@@ -70,19 +72,19 @@ codigo-comentado/
 │       ├── streams/
 │       └── spring/
 ```
- 
+
 > A estrutura em `src/<linguagem>/` já nasce pensada para receber outras linguagens no futuro (ver Roadmap).
- 
+
 Cada arquivo segue um padrão obrigatório, contendo:
- 
+
 **O que é? · Como funciona? · Por que existe? · Quando usar? · Quando evitar? · Vantagens · Desvantagens · Erros comuns · Boas práticas · Analogia · Exemplo prático · Exercício · Resumo**
- 
+
 ---
- 
+
 ## 🌐 Múltiplas linguagens
- 
+
 O projeto nasce com Java, mas a metodologia (explicar o *porquê*, não só o *como*) não é exclusiva de uma linguagem. Por isso a estrutura já separa o código por linguagem dentro de `src/`, permitindo que outras linguagens sejam adicionadas seguindo o mesmo padrão didático:
- 
+
 ```
 src/
 ├── java/
@@ -92,57 +94,57 @@ src/
     └── poo/
         └── a03_self.py
 ```
- 
-Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício) só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
- 
+
+Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício) — só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
 ---
- 
+
 ## 🏆 Sistema de progressão
- 
+
 | Nível | Descrição |
 |---|---|
 | 🟢 Básico | Sintaxe, lógica, estruturas de controle |
 | 🟡 Intermediário | POO, Collections, Exceptions |
 | 🔴 Avançado | Streams, Generics, Threads |
 | 🟣 Especialista | Spring, JPA, Microsserviços, Docker |
- 
+
 ---
- 
+
 ## 🗺️ Roadmap
- 
-**Fase 1 -> Fundação**
+
+**Fase 1 — Fundação**
 Lógica de programação · Estruturas de controle · Métodos · POO
- 
-**Fase 2 -> Estruturas avançadas**
+
+**Fase 2 — Estruturas avançadas**
 Collections · Exceptions · Generics · Streams
- 
-**Fase 3 -> Ecossistema Spring**
+
+**Fase 3 — Ecossistema Spring**
 Spring Boot · JPA · Hibernate · Security · Docker
- 
-**Fase 4 -> Projetos reais**
+
+**Fase 4 — Projetos reais**
 Sistema bancário · CRUD completo · API REST · Microsserviços · Autenticação JWT · Deploy
- 
-**Iniciado junto com o projeto -> Expansão multi-linguagem**
+
+**Fase 5 — Expansão multi-linguagem**
 Replicar o mesmo padrão didático para outras linguagens (Python, JavaScript, etc.), mantendo a mesma metodologia de ensino por código comentado.
- 
+
 ---
- 
+
 ## 🤝 Como contribuir
- 
-O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
- 
+
+O acompanhamento de temas em desenvolvimento é feito pelo nosso **quadro no Trello** (link a definir). O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
 ---
- 
+
 ## 📜 Manifesto
- 
+
 Acreditamos que conhecimento compartilhado vale mais do que conhecimento guardado.
- 
+
 Este repositório não existe apenas para armazenar código, mas para registrar a lógica, as decisões e os fundamentos por trás dele.
- 
+
 Queremos criar o material que gostaríamos de ter encontrado quando começamos a estudar programação.
- 
+
 Nosso compromisso é simples:
- 
+
 - Cada linha de código deve ensinar algo.
 - Cada comentário deve reduzir uma dúvida.
 - Cada Pull Request deve tornar o projeto melhor do que estava antes.
