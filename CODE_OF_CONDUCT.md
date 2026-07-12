@@ -2,7 +2,7 @@
 
 ## Nosso compromisso
 
-Este projeto existe para ensinar e aprender em conjunto. Para que isso funcione, todo mundo — independentemente de nível de experiência, formação ou tempo de programação — precisa se sentir seguro para perguntar, errar e contribuir.
+Este projeto existe para ensinar e aprender em conjunto. Para que isso funcione, todo mundo independentemente de nível de experiência, formação ou tempo de programação precisa se sentir seguro para perguntar, errar e contribuir.
 
 Comprometemo-nos a manter um ambiente aberto, acolhedor e livre de assédio para todos os participantes.
 
