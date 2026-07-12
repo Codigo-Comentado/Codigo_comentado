@@ -27,6 +27,25 @@ O que isso significa na prática:
 
 ---
 
+## 👥 Papéis e responsabilidades
+ 
+Para o projeto não depender de "todo mundo faz um pouco", algumas responsabilidades têm um dono definido. Não precisa uma pessoa por função no início, é normal acumular mais de um papel.
+ 
+Como o projeto já nasce com mais de uma linguagem, os papéis marcados com 🌐 precisam de **pelo menos uma pessoa por linguagem**, já que exigem conhecimento técnico específico.
+ 
+| Papel | O que faz | Responsável(is) |
+|---|---|---|
+| 🔧 Mantenedor do repositório | Aprova merges de `develop` → `main`, e mantém README/CONTRIBUTING atualizados | _a preencher_ |
+| 📋 Organização do Trello | Mantém o quadro em dia, evita temas duplicados, sinaliza cards parados | _a preencher_ |
+| 👀 Revisor (Code Review) 🌐 | Revisa PRs seguindo a checklist antes do merge em `develop` | Java: _a preencher_ <br> Outra linguagem: _a preencher_ |
+| 🎯 Qualidade didática 🌐 | Garante que o conteúdo ensina de verdade, aplicando a Regra de Ouro com rigor | Java: _a preencher_ <br> Outra linguagem: _a preencher_ |
+| 🚪 Onboarding | Recebe novos colaboradores, explica o fluxo e adiciona no GitHub | _a preencher_ |
+| 📣 Comunicação | Envia resumos e avisos ao time | _a preencher_ |
+ 
+> Atualize esta tabela conforme o time se organiza. Se uma linguagem nova for adicionada ao projeto (ver [Adicionando uma nova linguagem](#-adicionando-uma-nova-linguagem)), inclua uma linha de Revisor e Qualidade didática correspondentes antes de aceitar PRs nela.
+ 
+---
+
 ## 🧭 Como escolher um tema
 
 O controle do que está sendo desenvolvido é feito pelo **Trello** do projeto, não por Issues do GitHub.
