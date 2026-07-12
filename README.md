@@ -97,7 +97,7 @@ src/
         └── a03_self.py
 ```
  
-Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício) — só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício), só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
  
 ---
  
@@ -133,7 +133,7 @@ Replicar o mesmo padrão didático para outras linguagens (Python, JavaScript, e
  
 ## 🤝 Como contribuir
  
-O acompanhamento de temas em desenvolvimento é feito pelo nosso **quadro no Trello** (link a definir). O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+O acompanhamento de temas em desenvolvimento é feito pelo nosso **[quadro no Trello](https://trello.com/invite/b/6a53e4a51a87559a6391a57b/ATTIe404ef019cf12d02ee771dbe52593dabF653EC29/aprender-programacao-ensinando-programacao)**. O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
  
 ---
  
