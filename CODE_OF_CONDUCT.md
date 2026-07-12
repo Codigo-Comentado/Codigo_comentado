@@ -11,7 +11,7 @@ Comprometemo-nos a manter um ambiente aberto, acolhedor e livre de assédio para
 ## ✅ Comportamentos esperados
 
 - Ser respeitoso e construtivo em comentários de Code Review.
-- Aceitar críticas técnicas com abertura — o objetivo é o conteúdo ficar melhor, não defender o ego.
+- Aceitar críticas técnicas com abertura, o objetivo é o conteúdo ficar melhor, não defender o ego.
 - Fazer perguntas sem medo de "parecer básico". Ninguém nasce sabendo.
 - Dar feedback apontando o problema **e** sugerindo uma alternativa.
 - Reconhecer o esforço de quem está aprendendo, mesmo quando o PR ainda precisa de ajustes.
