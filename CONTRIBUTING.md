@@ -48,7 +48,7 @@ Como o projeto já nasce com mais de uma linguagem, os papéis marcados com 🌐
 
 ## 🧭 Como escolher um tema
 
-O controle do que está sendo desenvolvido é feito pelo **Trello** do projeto, não por Issues do GitHub.
+O controle do que está sendo desenvolvido é feito pelo **[Trello](https://trello.com/invite/b/6a53e4a51a87559a6391a57b/ATTIe404ef019cf12d02ee771dbe52593dabF653EC29/aprender-programacao-ensinando-programacao)** do projeto, não por Issues do GitHub.
 
 1. Verifique o [Roadmap](./README.md#%EF%B8%8F-roadmap) e o quadro do Trello, na coluna **"Disponível"**.
 2. Mova o card para **"Em desenvolvimento"** e coloque seu nome nele antes de começar (evita duplicidade).
