@@ -71,14 +71,14 @@ O controle do que está sendo desenvolvido é feito pelo **[Trello](https://trel
 ## 📁 Onde o arquivo deve ficar
 
 ```
-src/<linguagem>/<categoria>/<Numero>_<Tema>.<extensao>
+<linguagem>/<categoria>/<Numero>_<Tema>.<extensao>
 ```
 
 Exemplo:
 
 ```
-src/java/poo/A03_This.java
-src/python/poo/a03_self.py
+java/poo/A03_This.java
+python/poo/a03_self.py
 ```
 
 - `<linguagem>`: `java`, `python`, etc.
@@ -162,7 +162,7 @@ Se a linguagem que você quer usar ainda não existe no projeto:
 
 1. Crie um card no Trello, na coluna **Backlog**, explicando a motivação para a nova linguagem.
 2. Aguarde aprovação de pelo menos um mantenedor.
-3. Crie a pasta `src/<linguagem>/` replicando as mesmas categorias já existentes (`poo/`, `collections/`, etc.), adaptando apenas o que fizer sentido para a linguagem.
+3. Crie a pasta `<linguagem>/` replicando as mesmas categorias já existentes (`poo/`, `collections/`, etc.), adaptando apenas o que fizer sentido para a linguagem.
 4. O arquivo deve seguir o mesmo padrão obrigatório descrito acima, só a sintaxe muda, a estrutura didática não.
 5. Comece por um tema equivalente a um já existente em Java (ex: `A03_This.java` → `a03_self.py`), para facilitar a comparação entre linguagens.
 
