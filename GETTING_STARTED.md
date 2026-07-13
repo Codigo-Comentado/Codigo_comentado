@@ -123,7 +123,7 @@ git checkout -b feature/python-variaveis
 ## ✍️ Parte 6 - Escrever seu conteúdo
  
 1. Copie o template da sua linguagem, de dentro da pasta `templates/`.
-2. Cole dentro de `src/<linguagem>/<categoria>/`, renomeando seguindo o padrão `A0X_Tema.<extensão>` (ex: `A03_Heranca.java`).
+2. Cole dentro de `<linguagem>/<categoria>/`, renomeando seguindo o padrão `A0X_Tema.<extensão>` (ex: `A03_Heranca.java`).
 3. Preencha o conteúdo seguindo as seções obrigatórias descritas no [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 ---
  
@@ -138,7 +138,7 @@ git status
 Adicione o arquivo:
  
 ```bash
-git add src/java/poo/A03_Heranca.java
+git add java/poo/A03_Heranca.java
 ```
  
 Faça o commit, seguindo o [padrão de commits](./CONTRIBUTING.md#-padr%C3%A3o-de-commits):
