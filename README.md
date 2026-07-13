@@ -65,17 +65,20 @@ Antes de aprovar um PR, o revisor deve conseguir responder "sim" a estas pergunt
 codigo-comentado/
 ├── README.md
 ├── CONTRIBUTING.md
-├── src/
-│   └── java/
-│       ├── logica-sequencial/
-│       ├── poo/
-│       ├── collections/
-│       ├── exceptions/
-│       ├── streams/
-│       └── spring/
+├── java/
+│   ├── poo/
+│   │   ├── A01_Classes.java
+│   │   ├── A02_Atributos.java
+│   │   ├── A03_Metodos.java
+│   │   └── ...
+│   │
+│   ├── colecoes/
+│   ├── exceptions/
+│   ├── streams/
+│   └── spring/
 ```
  
-> A estrutura em `src/<linguagem>/` já nasce pensada para receber outras linguagens no futuro (ver Roadmap).
+> A estrutura em `linguagem/<tema>/` já nasce pensada para receber outras linguagens no futuro (ver Roadmap).
  
 Cada arquivo segue um padrão obrigatório, contendo:
  
@@ -85,16 +88,31 @@ Cada arquivo segue um padrão obrigatório, contendo:
  
 ## 🌐 Múltiplas linguagens
  
-O projeto nasce com Java, mas a metodologia (explicar o *porquê*, não só o *como*) não é exclusiva de uma linguagem. Por isso a estrutura já separa o código por linguagem dentro de `src/`, permitindo que outras linguagens sejam adicionadas seguindo o mesmo padrão didático:
+O projeto nasce com Java, mas a metodologia (explicar o *porquê*, não só o *como*) não é exclusiva de uma linguagem. Por isso a estrutura já separa o código por linguagem dentro de `codigo-comentado/`, permitindo que outras linguagens sejam adicionadas seguindo o mesmo padrão didático:
  
 ```
-src/
+codigo-comentado/
 ├── java/
-│   └── poo/
-│       └── A03_This.java
-└── python/
-    └── poo/
-        └── a03_self.py
+│   ├── poo/
+│   │   ├── A01_Classes.java
+│   │   ├── A02_Atributos.java
+│   │   ├── A03_Metodos.java
+│   │   └── ...
+│   │
+│   ├── collections/
+│
+├── python/
+│   ├── poo/
+│   │   ├── A01_Classes.py
+│   │   ├── A02_Atributos.py
+│   │   └── ...
+│   │
+│   ├── collections/
+│
+└── javascript/
+    ├── poo/
+    │   ├── A01_Classes.js
+    │   ├── A02_Atributos.js
 ```
  
 Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício), só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
@@ -112,7 +130,7 @@ Essa escolha foi feita porque:
 - Escala melhor conforme o projeto cresce: novos temas viram só mais um arquivo dentro de uma pasta já existente, sem precisar reorganizar nada.
 - É um padrão amplamente utilizado atualmente, inclusive em documentações técnicas, cursos e projetos open source, o que facilita a navegação para quem já está acostumado com esse tipo de estrutura.
 - Facilita a manutenção: se um conceito precisar ser corrigido ou atualizado, fica claro onde procurar.
-- Deixa mais fácil comparar como o mesmo assunto é tratado em linguagens diferentes, já que a mesma pasta de domínio existe replicada em cada linguagem (ex: `src/java/poo/` e `src/python/poo/`).
+- Deixa mais fácil comparar como o mesmo assunto é tratado em linguagens diferentes, já que a mesma pasta de domínio existe replicada em cada linguagem (ex: `codigo-comentado/java/poo/` e `codigo-comentado/python/poo/`).
 
 ---
  
