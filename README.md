@@ -100,6 +100,21 @@ src/
 Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício), só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
  
 ---
+
+### 📁 Por que essa organização de pastas?
+ 
+Dentro de cada linguagem, o código é organizado por **domínio/assunto** (`poo`, `collections`, `exceptions`, `streams`...), e não por critério técnico (como tipo de arquivo ou ordem de criação).
+ 
+Essa escolha foi feita porque:
+ 
+- Quem quer estudar um assunto específico encontra tudo relacionado a ele em um único lugar.
+- Reforça a trilha de estudos: dá pra seguir uma pasta inteira como uma sequência lógica de aprendizado.
+- Escala melhor conforme o projeto cresce: novos temas viram só mais um arquivo dentro de uma pasta já existente, sem precisar reorganizar nada.
+- É um padrão amplamente utilizado atualmente, inclusive em documentações técnicas, cursos e projetos open source, o que facilita a navegação para quem já está acostumado com esse tipo de estrutura.
+- Facilita a manutenção: se um conceito precisar ser corrigido ou atualizado, fica claro onde procurar.
+- Deixa mais fácil comparar como o mesmo assunto é tratado em linguagens diferentes, já que a mesma pasta de domínio existe replicada em cada linguagem (ex: `src/java/poo/` e `src/python/poo/`).
+
+---
  
 ## 🏆 Sistema de progressão
  
