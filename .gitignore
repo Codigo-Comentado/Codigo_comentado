@@ -1,0 +1,28 @@
+# ===== IDE (IntelliJ / PyCharm) =====
+.idea/
+*.iml
+out/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Java =====
+*.class
+target/
+build/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# ===== JavaScript / Node =====
+node_modules/
+dist/
+.env
+
+# ===== Sistema Operacional =====
+.DS_Store
+Thumbs.db
