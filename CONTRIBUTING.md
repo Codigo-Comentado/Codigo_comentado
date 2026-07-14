@@ -42,7 +42,7 @@ Como o projeto já nasce com mais de uma linguagem, os papéis marcados com 🌐
 | 🚪 Onboarding | Recebe novos colaboradores, explica o fluxo e adiciona no GitHub | Trabalho Feito por todos os integrantes da equipe |
 | 📣 Comunicação | Envia resumos e avisos ao time | _a preencher_ |
  
-> Atualize esta tabela conforme o time se organiza. Se uma linguagem nova for adicionada ao projeto (ver [Adicionando uma nova linguagem](#-adicionando-uma-nova-linguagem)), inclua uma linha de Revisor e Qualidade didática correspondentes antes de aceitar PRs nela.
+> A tabela se Atualiza conforme o time se organiza. Se uma linguagem nova for adicionada ao projeto (ver [Adicionando uma nova linguagem](#-adicionando-uma-nova-linguagem)). 
  
 ---
 
@@ -258,12 +258,12 @@ Revisões devem ser construtivas: aponte o problema e sugira uma alternativa, se
 
 ## 🏆 Níveis de contribuição
 
-| Nível | Critério |
-|---|---|
-| 🟢 Básico | Sintaxe e lógica fundamental |
-| 🟡 Intermediário | POO, Collections, Exceptions |
-| 🔴 Avançado | Streams, Generics, Threads |
-| 🟣 Especialista | Spring, JPA, Microsserviços, Docker |
+| Nível | Java | Python |
+|---|---|---|
+| 🟢 Básico | Sintaxe e lógica fundamental | Sintaxe e lógica fundamental |
+| 🟡 Intermediário | POO, Collections, Exceptions | POO, Estruturas de Dados (listas, dicionários, sets), Exceções |
+| 🔴 Avançado | Streams, Generics, Threads | Generators, Decorators, Context Managers, Threads/Async |
+| 🟣 Especialista | Spring, JPA, Microsserviços, Docker | Django/Flask/FastAPI, ORMs, Microsserviços, Docker |
 
 ---
 
