@@ -45,7 +45,7 @@ Instale normalmente, sem precisar mudar nenhuma configuração.
 No GitHub, dentro do repositório, clique no botão verde **"Code"** e copie a URL (formato HTTPS). Vai ser algo assim:
  
 ```
-https://github.com/Morcineck/Codigo_comentado.git
+https://github.com/Codigo-Comentado/Codigo_comentado.git
 ```
  
 ### 2.2 Escolha uma pasta no seu computador
@@ -58,7 +58,7 @@ Abra o terminal, navegue até a pasta escolhida e rode:
  
 ```bash
 cd Documentos
-git clone https://github.com/Morcineck/Codigo_comentado.git
+git clone https://github.com/Codigo-Comentado/Codigo_comentado.git
 ```
  
 Isso cria uma pasta `Codigo_comentado` com todo o projeto dentro, não precisa criar essa pasta manualmente antes.
