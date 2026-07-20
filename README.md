@@ -1,4 +1,9 @@
 # 🚀 Código Comentado
+![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square)
+![Python](https://img.shields.io/badge/Python-10B981?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square)
+![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-10B981?style=flat-square)
+![Status](https://img.shields.io/badge/status-em_desenvolvimento-7C3AED?style=flat-square)
  
 > **Aprender Programação Ensinando Programação**
  
