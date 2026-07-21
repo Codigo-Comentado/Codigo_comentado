@@ -71,7 +71,7 @@ O controle do que está sendo desenvolvido é feito pelo [quadro de Projects do 
 ## 📁 Onde o arquivo deve ficar
 
 ```
-<linguagem>/<categoria>/<Numero>_<Tema>.<extensao>
+<linguagem>/<categoria>/<nivel>/<Numero>_<Tema>.<extensao>
 ```
 
 Exemplo:
