@@ -131,8 +131,8 @@ parte dessa distinção.
     // Declaração de classe, aqui você define o "molde": quais atributos
     public static class Produto {
         String nome;    // <- Atributos
-        double preco;
-        int estoque;
+        double preco;  // <- Atributos
+        int estoque;  // <- Atributos
 
     // Aqui é o construtor, onde se define como o objeto nasce, recebendo os valores dos atributos
         public Produto(String nome, double preco, int estoque) {
