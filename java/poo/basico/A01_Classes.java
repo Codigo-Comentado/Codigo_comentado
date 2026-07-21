@@ -1,4 +1,4 @@
-package poo;
+package poo.basico;
 
 public class A01_Classes {
 
