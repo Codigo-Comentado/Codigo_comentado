@@ -48,7 +48,7 @@ Como o projeto já nasce com mais de uma linguagem, os papéis marcados com 🌐
 
 ## 🧭 Como escolher um tema
 
-O controle do que está sendo desenvolvido é feito pelo **[Trello](https://trello.com/invite/b/6a53e4a51a87559a6391a57b/ATTIe404ef019cf12d02ee771dbe52593dabF653EC29/aprender-programacao-ensinando-programacao)** do projeto, não por Issues do GitHub.
+O controle do que está sendo desenvolvido é feito pelo [quadro de Projects do GitHub](https://github.com/orgs/Codigo-Comentado/projects/12), organizado a partir de Issues.
 
 1. Verifique o [Roadmap](./README.md#%EF%B8%8F-roadmap) e o quadro do Trello, na coluna **"Disponível"**.
 2. Mova o card para **"Em desenvolvimento"** e coloque seu nome nele antes de começar (evita duplicidade).
@@ -160,7 +160,7 @@ int idade = 20;
 
 Se a linguagem que você quer usar ainda não existe no projeto:
 
-1. Crie um card no Trello, na coluna **Backlog**, explicando a motivação para a nova linguagem.
+1. Crie uma Issue no GitHub, explicando a motivação para a nova linguagem, e adicione ao Project na coluna **Backlog**.
 2. Aguarde aprovação de pelo menos um mantenedor.
 3. Crie a pasta `<linguagem>/` replicando as mesmas categorias já existentes (`poo/`, `collections/`, etc.), adaptando apenas o que fizer sentido para a linguagem.
 4. O arquivo deve seguir o mesmo padrão obrigatório descrito acima, só a sintaxe muda, a estrutura didática não.
@@ -223,7 +223,7 @@ test: adiciona testes dos exemplos
 
 1. Crie a branch a partir de `develop`.
 2. Desenvolva o conteúdo seguindo o padrão obrigatório.
-3. Abra o PR **direcionado para `develop`**, usando o template `pull_request_template.md`, incluindo o link do card do Trello na descrição.
+3. Abra o PR **direcionado para `develop`**, usando o template `pull_request_template.md`, referenciando a Issue correspondente na descrição (ex: `Closes #12`).
 4. Marque ao menos um revisor.
 5. Responda aos comentários da revisão.
 6. Só é permitido o merge após aprovação.
@@ -267,4 +267,4 @@ Revisões devem ser construtivas: aponte o problema e sugira uma alternativa, se
 
 ---
 
-Dúvidas? Crie um card na coluna **Dúvidas** do Trello ou pergunte no canal do time.
+Dúvidas? Abra uma Issue com a label `duvida` ou pergunte no canal do time.

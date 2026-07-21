@@ -6,5 +6,5 @@
 ## Tópicos abordados
 <!-- Liste rapidamente os pontos principais do conteúdo, ex: definição, exemplo prático, analogia, desafio, curiosidade. -->
 
-## Link do card no Trello
-<!-- Cole aqui o link do card correspondente. -->
+## Issue relacionada
+<!-- Referencie a issue correspondente, ex: Closes #12 -->

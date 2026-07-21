@@ -27,7 +27,7 @@ this.nome = nome;
  
 Qualquer pessoa aprende a escrever essa linha. Poucas entendem por que o `this` existe, que problema ele resolve, e quando ele realmente é necessário.
  
-Este projeto nasce para preencher essa lacuna: transformar cada arquivo de código em um pequeno capítulo de aprendizado, com raciocínio, analogias e decisões explicadas, não só sintaxe.
+Este projeto nasce para preencher essa lacuna: transformar cada arquivo de código num pequeno capítulo de aprendizado, com raciocínio, analogias e decisões explicadas, não só sintaxe.
  
 ---
  
@@ -170,8 +170,8 @@ Replicar o mesmo padrão didático para outras linguagens (Python, JavaScript, e
 ---
  
 ## 🤝 Como contribuir
- 
-O acompanhamento de temas em desenvolvimento é feito pelo nosso **[quadro no Trello](https://trello.com/invite/b/6a53e4a51a87559a6391a57b/ATTIe404ef019cf12d02ee771dbe52593dabF653EC29/aprender-programacao-ensinando-programacao)**. O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
+O acompanhamento de temas em desenvolvimento é feito pelo nosso [quadro de Projects no GitHub](https://github.com/orgs/Codigo-Comentado/projects/12). O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
  
 ---
  
