@@ -1,8 +1,17 @@
 # 🚀 Código Comentado
+![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square)
+![Python](https://img.shields.io/badge/Python-10B981?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square)
+![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-10B981?style=flat-square)
+![Status](https://img.shields.io/badge/status-em_desenvolvimento-7C3AED?style=flat-square)
  
 > **Aprender Programação Ensinando Programação**
  
 Um repositório colaborativo onde cada conceito de programação é explicado através do próprio código, não apenas escrito, mas comentado, justificado e ensinado.
+
+---
+
+> 🧭 Novo no projeto? Comece por aqui: [GETTING_STARTED.md](./GETTING_STARTED.md)
  
 ---
  
@@ -18,7 +27,7 @@ this.nome = nome;
  
 Qualquer pessoa aprende a escrever essa linha. Poucas entendem por que o `this` existe, que problema ele resolve, e quando ele realmente é necessário.
  
-Este projeto nasce para preencher essa lacuna: transformar cada arquivo de código em um pequeno capítulo de aprendizado, com raciocínio, analogias e decisões explicadas, não só sintaxe.
+Este projeto nasce para preencher essa lacuna: transformar cada arquivo de código num pequeno capítulo de aprendizado, com raciocínio, analogias e decisões explicadas, não só sintaxe.
  
 ---
  
@@ -61,17 +70,20 @@ Antes de aprovar um PR, o revisor deve conseguir responder "sim" a estas pergunt
 codigo-comentado/
 ├── README.md
 ├── CONTRIBUTING.md
-├── src/
-│   └── java/
-│       ├── logica-sequencial/
-│       ├── poo/
-│       ├── collections/
-│       ├── exceptions/
-│       ├── streams/
-│       └── spring/
+├── java/
+│   ├── poo/
+│   │   ├── A01_Classes.java
+│   │   ├── A02_Atributos.java
+│   │   ├── A03_Metodos.java
+│   │   └── ...
+│   │
+│   ├── colecoes/
+│   ├── exceptions/
+│   ├── streams/
+│   └── spring/
 ```
  
-> A estrutura em `src/<linguagem>/` já nasce pensada para receber outras linguagens no futuro (ver Roadmap).
+> A estrutura em `linguagem/<tema>/` já nasce pensada para receber outras linguagens no futuro (ver Roadmap).
  
 Cada arquivo segue um padrão obrigatório, contendo:
  
@@ -81,20 +93,50 @@ Cada arquivo segue um padrão obrigatório, contendo:
  
 ## 🌐 Múltiplas linguagens
  
-O projeto nasce com Java, mas a metodologia (explicar o *porquê*, não só o *como*) não é exclusiva de uma linguagem. Por isso a estrutura já separa o código por linguagem dentro de `src/`, permitindo que outras linguagens sejam adicionadas seguindo o mesmo padrão didático:
+O projeto nasce com Java, mas a metodologia (explicar o *porquê*, não só o *como*) não é exclusiva de uma linguagem. Por isso a estrutura já separa o código por linguagem dentro de `codigo-comentado/`, permitindo que outras linguagens sejam adicionadas seguindo o mesmo padrão didático:
  
 ```
-src/
+codigo-comentado/
 ├── java/
-│   └── poo/
-│       └── A03_This.java
-└── python/
-    └── poo/
-        └── a03_self.py
+│   ├── poo/
+│   │   ├── A01_Classes.java
+│   │   ├── A02_Atributos.java
+│   │   ├── A03_Metodos.java
+│   │   └── ...
+│   │
+│   ├── collections/
+│
+├── python/
+│   ├── poo/
+│   │   ├── A01_Classes.py
+│   │   ├── A02_Atributos.py
+│   │   └── ...
+│   │
+│   ├── collections/
+│
+└── javascript/
+    ├── poo/
+    │   ├── A01_Classes.js
+    │   ├── A02_Atributos.js
 ```
  
-Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício) — só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício), só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
  
+---
+
+### 📁 Por que essa organização de pastas?
+ 
+Dentro de cada linguagem, o código é organizado por **domínio/assunto** (`poo`, `collections`, `exceptions`, `streams`...), e não por critério técnico (como tipo de arquivo ou ordem de criação).
+ 
+Essa escolha foi feita porque:
+ 
+- Quem quer estudar um assunto específico encontra tudo relacionado a ele em um único lugar.
+- Reforça a trilha de estudos: dá pra seguir uma pasta inteira como uma sequência lógica de aprendizado.
+- Escala melhor conforme o projeto cresce: novos temas viram só mais um arquivo dentro de uma pasta já existente, sem precisar reorganizar nada.
+- É um padrão amplamente utilizado atualmente, inclusive em documentações técnicas, cursos e projetos open source, o que facilita a navegação para quem já está acostumado com esse tipo de estrutura.
+- Facilita a manutenção: se um conceito precisar ser corrigido ou atualizado, fica claro onde procurar.
+- Deixa mais fácil comparar como o mesmo assunto é tratado em linguagens diferentes, já que a mesma pasta de domínio existe replicada em cada linguagem (ex: `codigo-comentado/java/poo/` e `codigo-comentado/python/poo/`).
+
 ---
  
 ## 🏆 Sistema de progressão
@@ -128,8 +170,8 @@ Replicar o mesmo padrão didático para outras linguagens (Python, JavaScript, e
 ---
  
 ## 🤝 Como contribuir
- 
-O acompanhamento de temas em desenvolvimento é feito pelo nosso **quadro no Trello** (link a definir). O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
+O acompanhamento de temas em desenvolvimento é feito pelo nosso [quadro de Projects no GitHub](https://github.com/orgs/Codigo-Comentado/projects/12). O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
  
 ---
  
