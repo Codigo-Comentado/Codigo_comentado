@@ -43,7 +43,9 @@ Como o projeto já nasce com mais de uma linguagem, os papéis marcados com 🌐
 | 📣 Comunicação | Envia resumos e avisos ao time | _a preencher_ |
  
 > A tabela se Atualiza conforme o time se organiza. Se uma linguagem nova for adicionada ao projeto (ver [Adicionando uma nova linguagem](#-adicionando-uma-nova-linguagem)). 
- 
+
+📖 Documentação detalhada de cada papel: [Mantenedores](./guias/papeis/MANTENEDORES.md) · [Representantes de Linguagem](./guias/papeis/REPRESENTANTES.md) · [Colaboradores](./guias/papeis/COLABORADORES.md) 
+
 ---
 
 ## 🧭 Como escolher um tema
