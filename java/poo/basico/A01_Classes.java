@@ -148,6 +148,11 @@ parte dessa distinção.
         }
     }
 
+
+    // -----------------------------------------------------
+    // EXEMPLO PRÁTICO - CÓDIGO INCORRETO (com observações)
+    // -----------------------------------------------------
+
     // ❌ Errado / ingênuo: representar o mesmo conceito com
     // variáveis soltas, sem nenhuma estrutura que as agrupe.
     // Isso funciona para UM produto, mas não escala: e se você
@@ -158,6 +163,10 @@ parte dessa distinção.
     // double precoProdutoA = 150.0;
     // int estoqueProdutoA = 20;
 
+
+    // -----------------------------------------------------
+    // EXEMPLO PRÁTICO - CÓDIGO CORRETO (com observações)
+    // -----------------------------------------------------
 
     public static void main(String[] args) {
 
