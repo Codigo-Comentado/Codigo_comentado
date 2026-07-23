@@ -1,7 +1,7 @@
 ---
 name: 📚 Novo tema de conteúdo
 about: Propor ou registrar um novo tema para o repositório (Java, Python ou JavaScript)
-title: "[CATEGORIA] Criar aula de Tema em Linguagem"
+title: "[LINGUAGEM][MATÉRIA][NÍVEL] Criar aula de Tema em Linguagem"
 labels: novo-tema
 assignees: ''
 ---
