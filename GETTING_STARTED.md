@@ -124,7 +124,7 @@ git checkout -b feature/python-variaveis
 ## ✍️ Parte 6 - Escrever seu conteúdo
  
 1. Copie o template da sua linguagem, de dentro da pasta `templates/`.
-2. Cole dentro de `<linguagem>/<categoria>/`, renomeando seguindo o padrão `A0X_Tema.<extensão>` (ex: `A03_Heranca.java`).
+2. Cole dentro de `<linguagem>/<categoria>/<nível>/`, renomeando seguindo o padrão `A0X_Tema.<extensão>` (ex: `A03_Heranca.java`).
 3. Preencha o conteúdo seguindo as seções obrigatórias descritas no [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 ---
  
@@ -171,7 +171,7 @@ Na primeira vez que você faz push de uma branch nova, pode ser que peça login 
  
 ## 👀 Parte 10 - Aguardar revisão
  
-O revisor vai avaliar seu PR seguindo a checklist do CONTRIBUTING.md. Se pedir ajustes:
+O revisor vai avaliar o PR seguindo a checklist do CONTRIBUTING.md. Se pedir ajustes:
  
 1. Faça as alterações no mesmo arquivo, na sua máquina.
 2. Repita os comandos `git add`, `git commit` e `git push` (na mesma branch, **não crie um PR novo**).
@@ -194,7 +194,7 @@ git branch
 ```
 A branch atual aparece marcada com um `*`.
  
-**Quero atualizar minha branch com o que mudou na `develop`**
+**Aualizar a branch com o que mudou na `develop`**
 ```bash
 git checkout develop
 git pull origin develop

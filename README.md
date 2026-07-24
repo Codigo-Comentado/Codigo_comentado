@@ -72,10 +72,13 @@ codigo-comentado/
 ├── CONTRIBUTING.md
 ├── java/
 │   ├── poo/
+│   │   ├──
 │   │   ├── A01_Classes.java
 │   │   ├── A02_Atributos.java
 │   │   ├── A03_Metodos.java
 │   │   └── ...
+│   ├── intermediario/
+│   └── avancado
 │   │
 │   ├── colecoes/
 │   ├── exceptions/
@@ -83,7 +86,7 @@ codigo-comentado/
 │   └── spring/
 ```
  
-> A estrutura em `linguagem/<tema>/` já nasce pensada para receber outras linguagens no futuro (ver Roadmap).
+> A estrutura em `linguagem/<tema>/<nível>` já nasce pensada para receber outras linguagens no futuro (ver Roadmap).
  
 Cada arquivo segue um padrão obrigatório, contendo:
  
@@ -103,7 +106,8 @@ codigo-comentado/
 │   │   ├── A02_Atributos.java
 │   │   ├── A03_Metodos.java
 │   │   └── ...
-│   │
+│   ├── intermediario/
+│   ├── avancado/
 │   ├── collections/
 │
 ├── python/
@@ -111,6 +115,8 @@ codigo-comentado/
 │   │   ├── A01_Classes.py
 │   │   ├── A02_Atributos.py
 │   │   └── ...
+│   ├── intermediario/
+│   ├── avancado/
 │   │
 │   ├── collections/
 │
@@ -118,6 +124,9 @@ codigo-comentado/
     ├── poo/
     │   ├── A01_Classes.js
     │   ├── A02_Atributos.js
+    │   └── ...
+    ├── intermediario/
+    ├── avancado/
 ```
  
 Cada nova linguagem segue o mesmo modelo de arquivo (o que é, por que existe, analogia, exemplo, exercício), só muda a sintaxe. O processo detalhado para propor uma nova linguagem está em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
@@ -135,7 +144,7 @@ Essa escolha foi feita porque:
 - Escala melhor conforme o projeto cresce: novos temas viram só mais um arquivo dentro de uma pasta já existente, sem precisar reorganizar nada.
 - É um padrão amplamente utilizado atualmente, inclusive em documentações técnicas, cursos e projetos open source, o que facilita a navegação para quem já está acostumado com esse tipo de estrutura.
 - Facilita a manutenção: se um conceito precisar ser corrigido ou atualizado, fica claro onde procurar.
-- Deixa mais fácil comparar como o mesmo assunto é tratado em linguagens diferentes, já que a mesma pasta de domínio existe replicada em cada linguagem (ex: `codigo-comentado/java/poo/` e `codigo-comentado/python/poo/`).
+- Deixa mais fácil comparar como o mesmo assunto é tratado em linguagens diferentes, já que a mesma pasta de domínio existe replicada em cada linguagem (ex: `codigo-comentado/java/poo/nível/` e `codigo-comentado/python/poo/nível/`).
 
 ---
  
@@ -171,7 +180,7 @@ Replicar o mesmo padrão didático para outras linguagens (Python, JavaScript, e
  
 ## 🤝 Como contribuir
 
-O acompanhamento de temas em desenvolvimento é feito pelo nosso [quadro de Projects no GitHub](https://github.com/orgs/Codigo-Comentado/projects/12). O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+O acompanhamento de temas em desenvolvimento é feito pelo nosso [quadro de Projects no GitHub](https://github.com/orgs/Codigo-Comentado/projects/16). O processo completo de contribuição (branches, commits, Pull Requests e Code Review) está detalhado em [`CONTRIBUTING.md`](./CONTRIBUTING.md).
  
 ---
  
@@ -183,7 +192,7 @@ Este repositório não existe apenas para armazenar código, mas para registrar 
  
 Queremos criar o material que gostaríamos de ter encontrado quando começamos a estudar programação.
  
-Nosso compromisso é simples:
+O nosso compromisso é simples:
  
 - Cada linha de código deve ensinar algo.
 - Cada comentário deve reduzir uma dúvida.

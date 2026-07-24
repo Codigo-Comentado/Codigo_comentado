@@ -36,7 +36,7 @@ Como o projeto já nasce com mais de uma linguagem, os papéis marcados com 🌐
 | Papel | O que faz | Responsável(is) |
 |---|---|---|
 | 🔧 Mantenedor do repositório | Aprova merges de `develop` → `main`, e mantém README/CONTRIBUTING atualizados | _a preencher_ |
-| 📋 Organização do Trello | Mantém o quadro em dia, evita temas duplicados, sinaliza cards parados | [Afonso Gabriel](https://github.com/1colossos)  <br>
+| 📋 Organização | Mantém o quadro em dia, evita temas duplicados, sinaliza cards parados | _a preencher_  <br>
 | 👀 Revisor (Code Review) 🌐 | Revisa PRs seguindo a checklist antes do merge em `develop` | JavaScript:_a preencher_ <br> JavaScript: _a preencher_ |
 | 🎯 Qualidade didática 🌐 | Garante que o conteúdo ensina de verdade, aplicando a Regra de Ouro com rigor | Java: _a preencher_ <br> JavaScript: _a preencher_  <br> JavaScript: [_a preencher_ 
 | 🚪 Onboarding | Recebe novos colaboradores, explica o fluxo e adiciona no GitHub | Trabalho Feito por todos os integrantes da equipe |
@@ -79,19 +79,20 @@ O controle do que está sendo desenvolvido é feito pelo [quadro de Projects do 
 Exemplo:
 
 ```
-java/poo/A03_This.java
-python/poo/a03_self.py
+java/poo/basico/A03_This.java
+python/poo/basico/A03_self.py
 ```
 
 - `<linguagem>`: `java`, `python`, etc.
 - `<categoria>`: `logica-sequencial`, `poo`, `collections`, `exceptions`, `streams`, `spring`, etc.
+- `<nível>`: `basico`, `intermediario`, `avancado`, subdivide o conteúdo dentro da categoria, reforçando a progressão de estudo.
 - O número prefixado indica a ordem sugerida de estudo dentro da categoria.
 
 ---
 
 ## 📑 Padrão obrigatório do arquivo
 
-Todo arquivo de conteúdo deve conter, nesta ordem:
+Todos os arquivos de conteúdo devem conter, nesta ordem:
 
 1. **Cabeçalho** —> tema, nível (🟢🟡🔴🟣), autor, última atualização, pré-requisitos, tempo estimado.
 2. **O que é?**
