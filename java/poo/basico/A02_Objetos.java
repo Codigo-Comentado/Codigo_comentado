@@ -11,7 +11,7 @@ Nível:
 
 Autor: Morcineck
 Última atualização: 22/07/2026
-Pré-requisitos: Lógica de programação básica (Classes)
+Pré-requisitos: Lógica de programação básica (Objetos)
 Tempo estimado de leitura: 10 min
 =============================================================
 
@@ -22,7 +22,7 @@ Já o bolo é o objeto criado a partir dessa forma (Classe). Cada bolo (objeto) 
 e comportamentos (métodos/ações) definidos pela forma (classe).
 
 Ex: Classe: FormaDeBolo / Objeto: meuBoloDeChocolate
-  Atributos(Características): formato: "Redondo" / sabor: "Chocolete" / estaSolado: Verdadeiro
+  Atributos(Características): formato: "Redondo" / sabor: "Chocolate" / estaSolado: Verdadeiro
   Comportamento(Método/Ações): assar() / fatiar() / comer()
 
 -------------------------------------------------------------
@@ -47,10 +47,10 @@ próxima do mundo real.
 QUANDO USAR?
 -------------------------------------------------------------
 Quase sempre que você precisar representar algo que tenha características (atributos/dados) e
-ações (métodos/comportamento) no seu sistema. Ou seja, ou seja quando for necessário gerar
+ações (métodos/comportamento) no seu sistema. Ou seja, quando for necessário gerar
 vários itens parecidos, mas com informações diferentes.
 
-Ex: Objeto meuBoloDeChocolate : possiu os atributos sabor e formato, e os métodos assar() ,
+Ex: Objeto meuBoloDeChocolate : possui os atributos sabor e formato, e os métodos assar() ,
 fatiar() e comer()
 
 -------------------------------------------------------------
@@ -58,13 +58,13 @@ QUANDO NÃO USAR?
 -------------------------------------------------------------
 Se você não tem dados para guardar junto com ações, não precisar de um objeto.
 
-EX: Se você precisa apenas convertar gramas de açúcar em xícaras, você não precisa criar um ObjetoBolo
+EX: Se você precisa apenas converter gramas de açúcar em xícaras, você não precisa criar um ObjetoBolo
 na memória RAM. Uma simples função converterGramaParaXicara() resolve diretamente.
 
 -------------------------------------------------------------
 VANTAGENS
 -------------------------------------------------------------
-- Reutilização de Código: Com a classe (a forma) pronta, você pode criar centanas de objetos (bolos)
+- Reutilização de Código: Com a classe (a forma) pronta, você pode criar centenas de objetos (bolos)
 diferentes com apenas uma linha de código, sem precisar reescrever a estrutura todas as vezes.
 
 - Organização e Proteção de Dados (Encapsulamento): Os dados (sabor, formato) e as ações (assar, fatiar, comer)
@@ -89,7 +89,7 @@ ERROS MAIS COMUNS
 -------------------------------------------------------------
 - Tentar acessar atributos/métodos diretamente da Classe em vez do Objeto.
 (NullPointerException / Erro de Instância): Acontece ao tentar mandar a forma de bolo assar ou
-O erro: tentar comer a forma, em vez de criar o bolo primeiro (FormaDeBolo.assar() em vez de meuBolo.assar() ).
+tentar comer a forma, em vez de criar o bolo primeiro (FormaDeBolo.assar() em vez de meuBolo.assar() ).
 
 Por que acontece: Quando esquece de instanciar o objeto (usar new) antes de tentar usar seus dados. Como a
 classe é apenas um molde e não ocupa espaço dinâmico na memória RAM com dados reais, tentar acessar algo que
@@ -98,7 +98,7 @@ não foi criado gera um erro de ponteiro nulo (o sistema procura o bolo na memó
 - Criar Objetos "Deus" (god Objects / Violação de responsabilidade única):
 O erro: Colocar atributos e métodos demais dentro de um único objeto, fazendo com que ele cuide de tudo no sistema.
 
-Por que acontece: Acontece preguiça ou falta de planejamento ao estruturar o sistema. O dev começa a adicionar
+Por que acontece: por preguiça ou falta de planejamento ao estruturar o sistema. O dev começa a adicionar
 coisas no mesmo objeto até que o ObjetoBolo passa a cuidar da receita, de assar, de cobrir o cliente, de enviar email
 de confirmação e de emitir nota fiscal. Isso destrói a organização da Orientação a Objetos.
 
@@ -115,7 +115,7 @@ diretamente de fora. Torne os atributos privados e use métodos para controlar o
 -------------------------------------------------------------
 ANALOGIA
 -------------------------------------------------------------
-Imane a Classe como a receita e a forma de bolo. Você não consegue comer a forma nem a
+Imagine a Classe como a receita e a forma de bolo. Você não consegue comer a forma nem a
 folha de papel da receita. Objeto é o bolo de verdade, assado e fofo, pronto na bancada.
 Você pode usar a mesma forma (Classe) para fazer dez bolos (Objetos) diferentes, um de chocolate,
 um de fubá e um de cenoura.
