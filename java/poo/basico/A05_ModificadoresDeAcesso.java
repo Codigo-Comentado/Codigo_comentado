@@ -71,7 +71,7 @@ para o resto do programa.
 
 Como regra geral (geralmente é assim que a maioria dos programadores experientes trabalha):
 
-- Atributos: normalmente private. Eles representam o estado interno do objeto e não devem ser alterados livrementes
+- Atributos: normalmente private. Eles representam o estado interno do objeto e não devem ser alterados livremente
 por fora da classe.
 
 - Métodos que expõem uma funcionalidade da classe: geralmente public. É o "caminho oficial" para o resto do programa
@@ -80,7 +80,7 @@ interagir com o objeto
 - Métodos ou atributos usados apenas internamente, como auxiliares de cálculo: geralmente private, pois são "detalhes de
 implementação" que ninguém de fora precisa (nem deve) conhecer.
 
--protect e (default): usados com menos frequência no começo. Costumam aparecer quando o projeto já trabalha com herança
+-protected e (default): usados com menos frequência no começo. Costumam aparecer quando o projeto já trabalha com herança
 ou está organizado em vários pacotes, e existe a necessidade de compartilhar algo apenas entre classes relacionadas
  ou do mesmo pacote.
 
@@ -166,7 +166,7 @@ Por que acontece: O Java bloqueia o acesso de fora do "raio de alcance" definido
      minhaConta.saldo = -5000;   // Nada impede esse valor inválido
 
 
-Por que acontece: parece mais rápido no ínicio, mas quebra o encapsulamento e permite que qualquer parte do programa
+Por que acontece: parece mais rápido no início, mas quebra o encapsulamento e permite que qualquer parte do programa
 altere o objeto sem nenhum controle.
 
 - Confundir private com protected:
