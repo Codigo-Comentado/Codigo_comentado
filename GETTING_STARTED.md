@@ -3,7 +3,7 @@
 Este guia é para quem nunca clonou um repositório antes. Siga na ordem, sem pular etapas.
  
 ---
-> 📖 Não conhece os termos do Git? Veja o [Glossário de Git](./guias/GLOSSARIO_GIT.md) antes de começar.
+> 📖 Não conhece os termos do Git? Veja o [Glossário de Git](docs/referencias/GLOSSARIO_GIT.md) antes de começar.
 
 ## 🧰 Parte 1 - Instalar as ferramentas (só uma vez)
  
