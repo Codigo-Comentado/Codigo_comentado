@@ -45,8 +45,8 @@ CONTRIBUTING
 
 Documentos úteis:
 
-- 📖 GETTING_STARTED.md
-- 📚 COMO_ESTUDAR.md
+- 📖 [GETTING_STARTED.md](./GETTING_STARTED.md)
+- 📚 [COMO_ESTUDAR.md](./docs/guias/COMO_ESTUDAR.md)
 - 🗺️ ROADMAPS
 - 🎓 TRILHAS
 
@@ -89,11 +89,11 @@ Todo colaborador deve ser capaz de explicar o próprio Pull Request durante a re
 
 Os papéis existentes no projeto são documentados separadamente.
 
-Consulte:
+Consulte a documentação de cada função:
 
-- COLABORADORES.md
-- MANTENEDORES.md
-- REPRESENTANTES.md
+- 📄 [Colaboradores](./docs/organizacao/COLABORADORES.md)
+- 🛠️ [Mantenedores](./docs/organizacao/MANTENEDORES.md)
+- 🌎 [Representantes](./docs/organizacao/REPRESENTANTES.md)
 
 ---
 
@@ -103,7 +103,7 @@ Todo novo conteúdo deve seguir o padrão oficial do projeto.
 
 Leia:
 
-**PADRAO_DE_CONTEUDO.md**
+**[Padrão de Conteúdo](./docs/guias/PADRAO_DE_CONTEUDO.md)**
 
 Esse documento explica:
 
@@ -156,9 +156,9 @@ Fluxo:
 
 ```
 feature
-      ↓
+  ↓
 develop
-      ↓
+  ↓
 main
 ```
 

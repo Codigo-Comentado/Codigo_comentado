@@ -96,9 +96,9 @@ Nem todas as seções serão obrigatórias para todos os assuntos, mas essa deve
 
 ## 🧭 Cabeçalho de navegação
 
-Todo arquivo de código começa com um cabeçalho que conecta a aula ao Roadmap e à Trilha correspondentes. É o que permite que o estudante — ou qualquer ferramenta — saiba onde aquele arquivo está na jornada de aprendizado, sem precisar abrir outro documento.
+Todo arquivo de código começa com um cabeçalho que conecta a aula ao Roadmap e à Trilha correspondentes. É o que permite que o estudante ou qualquer ferramenta, saiba onde aquele arquivo está na jornada de aprendizado, sem precisar abrir outro documento.
 
-O cabeçalho é escrito **no formato de comentário de documentação nativo da linguagem** (Javadoc, docstring, etc.) — nunca em caixa ASCII ou outro formato decorativo. Isso garante que ele seja lido por IDEs, geradores de documentação e, futuramente, por scripts de validação.
+O cabeçalho é escrito **no formato de comentário de documentação nativo da linguagem** (Javadoc, docstring, etc.), nunca em caixa ASCII ou outro formato decorativo. Isso garante que ele seja lido por IDEs, geradores de documentação e, futuramente, por scripts de validação.
 
 **Campos obrigatórios:**
 
@@ -142,7 +142,7 @@ A06 — Encapsulamento
 """
 ```
 
-Se o Roadmap, a Trilha ou a pasta física do arquivo mudarem, o cabeçalho deve ser atualizado na mesma Pull Request — os quatro devem sempre contar a mesma história.
+Se o Roadmap, a Trilha ou a pasta física do arquivo mudarem, o cabeçalho deve ser atualizado na mesma Pull Request, os quatro devem sempre contar a mesma história.
 
 **Campos opcionais de metadados:**
 

@@ -165,7 +165,7 @@ Na primeira vez que você faz push de uma branch nova, pode ser que peça login 
 1. Vá até o repositório no GitHub. Deve aparecer um aviso com o botão **"Compare & pull request"**, clique nele. (Se não aparecer, o terminal também mostra um link direto após o `push`.)
 2. Confira se a **base** está como `develop` (não `main`).
 3. Escreva um título e uma breve descrição do que você fez.
-4. Marque um revisor (veja a tabela de [Papéis e responsabilidades](./CONTRIBUTING.md#-pap%C3%A9is-e-responsabilidades) para saber quem é o revisor da sua linguagem).
+4. Marque um revisor 
 5. Clique em **"Create pull request"**.
 ---
  
