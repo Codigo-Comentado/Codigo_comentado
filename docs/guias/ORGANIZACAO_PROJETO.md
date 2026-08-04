@@ -53,35 +53,35 @@ codigo-comentado/
 │         └── PADRAO_DE_CONTEUDO.md
  
 ├── java/
-│   ├── 01-logica-de-programacao/
-│   ├── 02-fundamentos-java/
-│   ├── 03-poo/
-│   ├── 04-recursos-da-linguagem/
-│   ├── 05-excecoes/
-│   ├── 06-collections/
-│   ├── 07-programacao-funcional/
-│   ├── 08-arquivos/
-│   ├── 09-data-e-hora/
-│   ├── 10-concorrencia/
-│   ├── 11-testes/
-│   ├── 12-banco-de-dados/
-│   ├── 13-maven-e-gradle/
-│   ├── 14-spring/
-│   └── 15-arquitetura/
+│   ├── a01_logica_de_programacao/
+│   ├── b02_fundamentos_java/
+│   ├── c03_programacao_orientada_a_objetos/
+│   ├── d04_recursos_da_linguagem/
+│   ├── e05_excecoes/
+│   ├── f06_collections/
+│   ├── g07_programacao_funcional/
+│   ├── h08_arquivos/
+│   ├── i09_data_e_hora/
+│   ├── j10_concorrencia/
+│   ├── k11_testes/
+│   ├── l12_banco_de_dados/
+│   ├── m13_maven_e_gradle/
+│   ├── n14_spring/
+│   └── o15_arquitetura/
  
 ├── python/
-│   ├── 01-logica-de-programacao/
-│   ├── 02-fundamentos-python/
-│   ├── 03-poo/
-│   ├── 04-recursos-da-linguagem/
-│   ├── 05-excecoes/
-│   ├── 06-collections/
-│   ├── 07-programacao-funcional/
-│   ├── 08-arquivos/
-│   ├── 09-data-e-hora/
-│   ├── 10-concorrencia/
-│   ├── 11-testes/
-│   ├── 12-banco-de-dados/
+│   ├── a01_logica_de_programacao/
+│   ├── b02-fundamentos-python/
+│   ├── c03_programacao_orientada_a_objetos/
+│   ├── d04_recursos_da_linguagem/
+│   ├── e05_excecoes/
+│   ├── f06_collections/
+│   ├── g07_programacao_funcional/
+│   ├── h08_arquivos/
+│   ├── i09_data_e_hora/
+│   ├── j10_concorrencia/
+│   ├── k11_testes/
+│   ├── l12_banco_de_dados/
 │   ├── 13-gerenciamento-de-pacotes/
 │   └── 14-frameworks-web/
  
@@ -132,7 +132,7 @@ Cada subpasta de módulo é numerada com dois dígitos, na mesma ordem em que ap
 **Exemplo (Java):**
 
 ```
-java/03-poo/
+java/03-c03_programacao_orientada_a_objetos/
 ├── A01_Classes.java
 ├── A02_Objetos.java
 ├── A03_InstanciacaoDeObjetos.java
@@ -175,7 +175,7 @@ Roadmap (Módulo 3, código A06)
         ↓
 Trilha (Java → POO → Básico)
         ↓
-Pasta física (java/03-poo/A06_Encapsulamento.java)
+Pasta física (java/03-c03_programacao_orientada_a_objetos/A06_Encapsulamento.java)
         ↓
 Cabeçalho do arquivo (aponta de volta para Módulo, Roadmap e Trilha)
 ```

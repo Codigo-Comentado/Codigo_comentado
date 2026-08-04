@@ -1,4 +1,4 @@
-package poo;
+package c03_programacao_orientada_a_objetos;
 
 /**
  * A11 — Encapsulamento
@@ -15,7 +15,7 @@ package poo;
  * @tempoLeitura   15 min
  */
 
-public class A11_Encapsulamento {
+public class C11_Encapsulamento {
 
     /*
      * O QUE É?

@@ -179,7 +179,7 @@ codigo-comentado/
 │   └── guides/
  
 ├── java/
-│   ├── poo/
+│   ├── c03_programacao_orientada_a_objetos/
 │   ├── collections/
 │   ├── exceptions/
 │   ├── streams/
@@ -187,7 +187,7 @@ codigo-comentado/
  
 ├── python/
 │   ├── fundamentos/
-│   ├── poo/
+│   ├── c03_programacao_orientada_a_objetos/
 │   ├── collections/
 │   └── frameworks/
  

@@ -1,4 +1,4 @@
-package poo;
+package c03_programacao_orientada_a_objetos;
 
 /**
  * A02 — Objetos
@@ -14,7 +14,7 @@ package poo;
  * @atualizado     22/07/2026
  * @tempoLeitura   10 min
  */
-public class A02_Objetos {
+public class C02_Objetos {
 
     /*
      * O QUE É?

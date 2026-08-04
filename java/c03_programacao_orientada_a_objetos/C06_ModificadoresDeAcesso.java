@@ -1,4 +1,4 @@
-package poo;
+package c03_programacao_orientada_a_objetos;
 
 /**
  * A06 — Modificadores de Acesso
@@ -14,7 +14,7 @@ package poo;
  * @atualizado     29/07/2026
  * @tempoLeitura   10 min
  */
-public class A06_ModificadoresDeAcesso {
+public class C06_ModificadoresDeAcesso {
 
     /*
      * O QUE É?
