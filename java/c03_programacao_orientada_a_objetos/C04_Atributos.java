@@ -1,4 +1,4 @@
-package poo;
+package c03_programacao_orientada_a_objetos;
 
 /**
  * A04 — Atributos
@@ -14,7 +14,7 @@ package poo;
  * @atualizado     27/07/2026
  * @tempoLeitura   10 min
  */
-public class A04_Atributos {
+public class C04_Atributos {
 
     /*
      * O QUE É?

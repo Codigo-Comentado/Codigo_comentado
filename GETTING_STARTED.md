@@ -1,5 +1,26 @@
-# 🧭 Primeiros Passos - Como configurar o projeto na sua máquina
- 
+# 🧭 Primeiros Passos
+
+> Código Comentado
+>
+> **Aprender Programação Ensinando Programação**
+
+---
+
+## 📑 Índice
+
+- [Instalar as ferramentas](#-parte-1---instalar-as-ferramentas-só-uma-vez)
+- [Clonar o projeto](#-parte-2---clonar-o-projeto)
+- [Abrir na IDE](#-parte-3---abrir-na-ide)
+- [Trocar para a branch `develop`](#-parte-4---trocar-para-a-branch-develop)
+- [Criar sua branch de trabalho](#-parte-5---criar-sua-branch-de-trabalho)
+- [Escrever seu conteúdo](#️-parte-6---escrever-seu-conteúdo)
+- [Fazer o commit](#-parte-7---commit)
+- [Enviar para o GitHub](#️-parte-8---enviar-para-o-github)
+- [Abrir o Pull Request](#-parte-9---abrir-o-pull-request)
+- [Aguardar a revisão](#-parte-10---aguardar-revisão)
+- [Problemas comuns](#-problemas-comuns)
+---
+
 Este guia é para quem nunca clonou um repositório antes. Siga na ordem, sem pular etapas.
  
 ---
@@ -115,7 +136,7 @@ git checkout -b feature/categoria-tema
  
 Exemplos reais:
 ```bash
-git checkout -b feature/poo-heranca
+git checkout -b feature/c03_programacao_orientada_a_objetos-heranca
 git checkout -b feature/python-variaveis
 ```
  
@@ -139,7 +160,7 @@ git status
 Adicione o arquivo:
  
 ```bash
-git add java/poo/A03_Heranca.java
+git add java/c03_programacao_orientada_a_objetos/A03_Heranca.java
 ```
  
 Faça o commit, seguindo o [padrão de commits](./CONTRIBUTING.md#-padr%C3%A3o-de-commits):
@@ -153,7 +174,7 @@ git commit -m "feat: adiciona explicação sobre heranca em Java"
 ## ☁️ Parte 8 - Enviar para o GitHub
  
 ```bash
-git push origin feature/poo-heranca
+git push origin feature/c03_programacao_orientada_a_objetos-heranca
 ```
  
 Na primeira vez que você faz push de uma branch nova, pode ser que peça login do GitHub, siga as instruções que aparecerem na tela (geralmente abre o navegador para autorizar).

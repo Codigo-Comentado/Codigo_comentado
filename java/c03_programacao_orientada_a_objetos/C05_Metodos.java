@@ -1,4 +1,4 @@
-package poo;
+package c03_programacao_orientada_a_objetos;
 
 /**
  * A05 — Métodos
@@ -14,7 +14,7 @@ package poo;
  * @atualizado     29/07/2026
  * @tempoLeitura   10 min
  */
-public class A05_Metodos {
+public class C05_Metodos {
 
     /*
      * O QUE É?
