@@ -103,11 +103,11 @@ apenas seguir o mesmo padrão numérico, sem redesenhar a organização existent
 
 Concentra toda a documentação de apoio — nenhum conteúdo de código vive aqui.
 
-| Subpasta | Conteúdo |
-|---|---|
-| `trilhas/` | Um arquivo `TRILHA-<LINGUAGEM>.md` por linguagem — caminho recomendado de estudo |
-| `roadmaps/` | Um arquivo `ROADMAP-<LINGUAGEM>.md` por linguagem — catálogo completo de conceitos |
-| `guias/` | Guias de apoio ao estudante (ex: COMO_ESTUDAR.md) |
+| Subpasta | Conteúdo                                                                                     |
+|---|----------------------------------------------------------------------------------------------|
+| `trilhas/` | Um arquivo `TRILHA-<LINGUAGEM>.md` por linguagem, caminho recomendado de estudo              |
+| `roadmaps/` | Um arquivo `ROADMAP-<LINGUAGEM>.md` por linguagem, catálogo completo de conceitos            |
+| `guias/` | Guias de apoio ao estudante (ex: COMO_ESTUDAR.md)                                            |
 | `organizacao/` | Documentos que definem as regras do próprio projeto (este arquivo e o PADRAO_DE_CONTEUDO.md) |
  
 ---
@@ -163,7 +163,7 @@ Regras:
 
 - O código (`A06`, `F22`, ...) deve ser **idêntico** ao código correspondente no Roadmap.
 - O nome do conceito é escrito em PascalCase, sem acentos ou espaços.
-- Um arquivo por conceito — não agrupe múltiplos conceitos num único arquivo.
+- Um arquivo por conceito, não agrupe múltiplos conceitos num único arquivo.
 ---
 
 ## 🔗 Relação entre pasta, Roadmap e Trilha
