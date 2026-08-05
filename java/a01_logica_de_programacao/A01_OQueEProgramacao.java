@@ -169,9 +169,9 @@ public class A01_OQueEProgramacao {
      *
      * "Calcular o valor total de uma compra, sabendo o preço de um
      * produto e a quantidade comprada, e informar se a compra dá
-     * direito a frete grátis (valor total maior que R$ 200)."
+     * direito a frete grátis (valor total maior que R$200)."
      *
-     * Depois de escrever os passos em português, traduza cada passo
+     * Depois de, escrever os passos em português, traduza cada passo
      * para código Java, seguindo a mesma estrutura do exemplo acima
      * (dados de entrada, cálculo, decisão, saída).
      */
