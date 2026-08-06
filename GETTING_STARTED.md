@@ -1,9 +1,30 @@
-# 🧭 Primeiros Passos - Como configurar o projeto na sua máquina
- 
+# 🧭 Primeiros Passos
+
+> Código Comentado
+>
+> **Aprender Programação Ensinando Programação**
+
+---
+
+## 📑 Índice
+
+- [Instalar as ferramentas](#-parte-1---instalar-as-ferramentas-só-uma-vez)
+- [Clonar o projeto](#-parte-2---clonar-o-projeto)
+- [Abrir na IDE](#-parte-3---abrir-na-ide)
+- [Trocar para a branch `develop`](#-parte-4---trocar-para-a-branch-develop)
+- [Criar sua branch de trabalho](#-parte-5---criar-sua-branch-de-trabalho)
+- [Escrever seu conteúdo](#️-parte-6---escrever-seu-conteúdo)
+- [Fazer o commit](#-parte-7---commit)
+- [Enviar para o GitHub](#️-parte-8---enviar-para-o-github)
+- [Abrir o Pull Request](#-parte-9---abrir-o-pull-request)
+- [Aguardar a revisão](#-parte-10---aguardar-revisão)
+- [Problemas comuns](#-problemas-comuns)
+---
+
 Este guia é para quem nunca clonou um repositório antes. Siga na ordem, sem pular etapas.
  
 ---
-> 📖 Não conhece os termos do Git? Veja o [Glossário de Git](./guias/GLOSSARIO_GIT.md) antes de começar.
+> 📖 Não conhece os termos do Git? Veja o [Glossário de Git](docs/referencias/GLOSSARIO_GIT.md) antes de começar.
 
 ## 🧰 Parte 1 - Instalar as ferramentas (só uma vez)
  
@@ -115,7 +136,7 @@ git checkout -b feature/categoria-tema
  
 Exemplos reais:
 ```bash
-git checkout -b feature/poo-heranca
+git checkout -b feature/c03_programacao_orientada_a_objetos-heranca
 git checkout -b feature/python-variaveis
 ```
  
@@ -124,7 +145,7 @@ git checkout -b feature/python-variaveis
 ## ✍️ Parte 6 - Escrever seu conteúdo
  
 1. Copie o template da sua linguagem, de dentro da pasta `templates/`.
-2. Cole dentro de `<linguagem>/<categoria>/`, renomeando seguindo o padrão `A0X_Tema.<extensão>` (ex: `A03_Heranca.java`).
+2. Cole dentro de `<linguagem>/<categoria>/<nível>/`, renomeando seguindo o padrão `A0X_Tema.<extensão>` (ex: `A03_Heranca.java`).
 3. Preencha o conteúdo seguindo as seções obrigatórias descritas no [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 ---
  
@@ -139,7 +160,7 @@ git status
 Adicione o arquivo:
  
 ```bash
-git add java/poo/A03_Heranca.java
+git add java/c03_programacao_orientada_a_objetos/A03_Heranca.java
 ```
  
 Faça o commit, seguindo o [padrão de commits](./CONTRIBUTING.md#-padr%C3%A3o-de-commits):
@@ -153,7 +174,7 @@ git commit -m "feat: adiciona explicação sobre heranca em Java"
 ## ☁️ Parte 8 - Enviar para o GitHub
  
 ```bash
-git push origin feature/poo-heranca
+git push origin feature/c03_programacao_orientada_a_objetos-heranca
 ```
  
 Na primeira vez que você faz push de uma branch nova, pode ser que peça login do GitHub, siga as instruções que aparecerem na tela (geralmente abre o navegador para autorizar).
@@ -165,13 +186,13 @@ Na primeira vez que você faz push de uma branch nova, pode ser que peça login 
 1. Vá até o repositório no GitHub. Deve aparecer um aviso com o botão **"Compare & pull request"**, clique nele. (Se não aparecer, o terminal também mostra um link direto após o `push`.)
 2. Confira se a **base** está como `develop` (não `main`).
 3. Escreva um título e uma breve descrição do que você fez.
-4. Marque um revisor (veja a tabela de [Papéis e responsabilidades](./CONTRIBUTING.md#-pap%C3%A9is-e-responsabilidades) para saber quem é o revisor da sua linguagem).
+4. Marque um revisor 
 5. Clique em **"Create pull request"**.
 ---
  
 ## 👀 Parte 10 - Aguardar revisão
  
-O revisor vai avaliar seu PR seguindo a checklist do CONTRIBUTING.md. Se pedir ajustes:
+O revisor vai avaliar o PR seguindo a checklist do CONTRIBUTING.md. Se pedir ajustes:
  
 1. Faça as alterações no mesmo arquivo, na sua máquina.
 2. Repita os comandos `git add`, `git commit` e `git push` (na mesma branch, **não crie um PR novo**).
@@ -194,7 +215,7 @@ git branch
 ```
 A branch atual aparece marcada com um `*`.
  
-**Quero atualizar minha branch com o que mudou na `develop`**
+**Aualizar a branch com o que mudou na `develop`**
 ```bash
 git checkout develop
 git pull origin develop

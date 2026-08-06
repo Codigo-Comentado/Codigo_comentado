@@ -25,7 +25,7 @@ Um "salvamento" no histórico do Git, uma foto de como os arquivos estavam naque
 Uma linha paralela de desenvolvimento. Permite trabalhar numa mudança sem afetar o código principal, até que essa mudança esteja pronta para ser unida.
 
 **Merge** -
-O ato de unir o conteúdo de uma branch em outra (ex: unir `feature/poo-classes` dentro de `develop`).
+O ato de unir o conteúdo de uma branch em outra (ex: unir `feature/c03_programacao_orientada_a_objetos-classes` dentro de `develop`).
 
 **Clone** -
 Baixar uma cópia completa de um repositório remoto (do GitHub) para o computador local.
@@ -52,7 +52,7 @@ Precisa ser resolvido manualmente.
 
 | Prefixo | Quando usar |
 |---|---|
-| `feature/` | Um novo tema de conteúdo (ex: `feature/poo-heranca`) |
+| `feature/` | Um novo tema de conteúdo (ex: `feature/c03_programacao_orientada_a_objetos-heranca`) |
 | `chore/` | Tarefa estrutural/organizacional, sem conteúdo didático (ex: `chore/adiciona-gitignore`) |
 | `docs/` | Mudança em documentação do projeto (ex: `docs/adiciona-glossario-git`) |
 | `fix/` | Correção de um erro em conteúdo já existente |

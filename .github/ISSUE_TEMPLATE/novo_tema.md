@@ -1,7 +1,7 @@
 ---
 name: 📚 Novo tema de conteúdo
 about: Propor ou registrar um novo tema para o repositório (Java, Python ou JavaScript)
-title: "[CATEGORIA] Criar aula de Tema em Linguagem"
+title: "[LINGUAGEM][MATÉRIA][NÍVEL] Criar aula de Tema em Linguagem"
 labels: novo-tema
 assignees: ''
 ---
@@ -10,10 +10,10 @@ assignees: ''
 📝 EXEMPLO PREENCHIDO (apague este bloco antes de publicar):
 Tema: Getters e Setters
 Linguagem: Java
-Categoria: poo
+Categoria: c03_programacao_orientada_a_objetos
 Nível: 🟢 Básico
-Arquivo previsto: java/poo/A08_GettersESetters.java
-Branch prevista: feature/java-poo-a08-getters-setters
+Arquivo previsto: java/c03_programacao_orientada_a_objetos/A08_GettersESetters.java
+Branch prevista: feature/java-c03_programacao_orientada_a_objetos-a08-getters-setters
 Objetivo: explicar como getters e setters permitem acessar e modificar
 atributos privados de forma controlada.
 -->
@@ -28,7 +28,7 @@ atributos privados de forma controlada.
 
 ## Categoria
 
-<!-- Ex: poo, collections, exceptions, streams -->
+<!-- Ex: c03_programacao_orientada_a_objetos, collections, exceptions, streams -->
 
 ## Nível
 
@@ -36,11 +36,11 @@ atributos privados de forma controlada.
 
 ## Arquivo previsto
 
-<!-- Ex: java/poo/A07_Encapsulamento.java -->
+<!-- Ex: java/c03_programacao_orientada_a_objetos/A07_Encapsulamento.java -->
 
 ## Branch prevista
 
-<!-- Ex: feature/java-poo-a07-encapsulamento -->
+<!-- Ex: feature/java-c03_programacao_orientada_a_objetos-a07-encapsulamento -->
 
 ## Objetivo
 

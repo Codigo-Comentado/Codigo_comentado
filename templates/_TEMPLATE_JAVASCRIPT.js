@@ -1,85 +1,89 @@
-// categoria: [Nome do tema aqui ex: Herança, Closures, Try/Catch]
+// categoria: [Nome do módulo aqui — ex: poo, closures, excecoes]
 // TODO: troque o nome do arquivo pelo padrão A0X_Tema.js (ex: A03_This.js)
 
+/**
+ * A0X - [Nome do tema aqui, ex: Herança, Closures, Try/Catch]
+ *
+ * @modulo         [Nome do módulo, ex: Funções e Closures]
+ * @roadmap        Módulo [X] → A0X
+ * @trilha         JavaScript → [Módulo] → [Nível]
+ * @nivel          [🟢 Básico | 🟡 Intermediário | 🟠 Avançado | 🔵 Backend | 🟣 Frameworks | 🔴 Arquitetura]
+ * @prerequisitos  [ex: Funções, Objetos]
+ * @proximos       [ex: próximos conceitos recomendados no Roadmap]
+ *
+ * @autor          [seu nome ou usuário do GitHub - opcional]
+ * @atualizado     [dd/mm/aaaa - opcional]
+ * @tempoLeitura   [ex: 10 min - opcional]
+ */
+
 /*
-=============================================================
-TEMA: [Nome do tema aqui]
+ * O QUE É?
+ * -------------------------------------------------------------
+ * [Explique em 2-4 frases o que é o conceito, em linguagem simples,
+ * como se estivesse explicando para alguém que nunca ouviu falar
+ * sobre isso antes.]
+ */
 
-Nível:
-🟢 Básico | 🟡 Intermediário | 🔴 Avançado | 🟣 Especialista
-(apague os que não se aplicam)
+/*
+ * COMO FUNCIONA?
+ * -------------------------------------------------------------
+ * [Explique o mecanismo por trás do conceito. Não é só "o que ele
+ * faz", mas "como" ele faz isso internamente ou na prática.]
+ */
 
-Autor: [seu nome ou usuário do GitHub]
-Última atualização: [dd/mm/aaaa]
-Pré-requisitos: [ex: Funções, Objetos]
-Tempo estimado de leitura: [ex: 10 min]
-=============================================================
+/*
+ * POR QUE EXISTE?
+ * -------------------------------------------------------------
+ * [Qual problema esse conceito resolve? O que aconteceria, ou como
+ * seria mais difícil, se ele não existisse?]
+ */
 
-O QUE É?
--------------------------------------------------------------
-[Explique em 2-4 frases o que é o conceito, em linguagem simples,
-como se estivesse explicando para alguém que nunca ouviu falar
-sobre isso antes.]
+/*
+ * QUANDO USAR?
+ * -------------------------------------------------------------
+ * [Cenários reais onde faz sentido aplicar esse conceito.]
+ */
 
--------------------------------------------------------------
-COMO FUNCIONA?
--------------------------------------------------------------
-[Explique o mecanismo por trás do conceito. Não é só "o que ele
-faz", mas "como" ele faz isso internamente ou na prática.]
+/*
+ * QUANDO EVITAR?
+ * -------------------------------------------------------------
+ * [Situações em que usar isso seria uma má escolha, over-engineering,
+ * ou simplesmente desnecessário.]
+ */
 
--------------------------------------------------------------
-POR QUE EXISTE?
--------------------------------------------------------------
-[Qual problema esse conceito resolve? O que aconteceria, ou como
-seria mais difícil, se ele não existisse?]
+/*
+ * VANTAGENS
+ * -------------------------------------------------------------
+ * - [vantagem 1]
+ * - [vantagem 2]
+ */
 
--------------------------------------------------------------
-QUANDO USAR?
--------------------------------------------------------------
-[Cenários reais onde faz sentido aplicar esse conceito.]
+/*
+ * DESVANTAGENS
+ * -------------------------------------------------------------
+ * - [desvantagem 1]
+ * - [desvantagem 2]
+ */
 
--------------------------------------------------------------
-QUANDO NÃO USAR?
--------------------------------------------------------------
-[Situações em que usar isso seria uma má escolha, over-engineering,
-ou simplesmente desnecessário.]
+/*
+ * BOAS PRÁTICAS
+ * -------------------------------------------------------------
+ * - [boa prática 1]
+ * - [boa prática 2]
+ */
 
--------------------------------------------------------------
-VANTAGENS
--------------------------------------------------------------
-- [vantagem 1]
-- [vantagem 2]
+/*
+ * ERROS MAIS COMUNS
+ * -------------------------------------------------------------
+ * - [erro comum 1 - e por que ele acontece]
+ * - [erro comum 2 - e por que ele acontece]
+ */
 
--------------------------------------------------------------
-DESVANTAGENS
--------------------------------------------------------------
-- [desvantagem 1]
-- [desvantagem 2]
-
--------------------------------------------------------------
-ERROS MAIS COMUNS
--------------------------------------------------------------
-- [erro comum 1 - e por que ele acontece]
-- [erro comum 2 - e por que ele acontece]
-
--------------------------------------------------------------
-BOAS PRÁTICAS
--------------------------------------------------------------
-- [boa prática 1]
-- [boa prática 2]
-
--------------------------------------------------------------
-ANALOGIA
--------------------------------------------------------------
-[Uma comparação do dia a dia que ajude a fixar o conceito.]
-
--------------------------------------------------------------
-RESUMO
--------------------------------------------------------------
-[2-3 frases resumindo o essencial, para quem quer revisar rápido
-sem reler tudo.]
-=============================================================
-*/
+/*
+ * ANALOGIA
+ * -------------------------------------------------------------
+ * [Uma comparação do dia a dia que ajude a fixar o conceito.]
+ */
 
 // -----------------------------------------------------
 // EXEMPLO PRÁTICO
@@ -103,24 +107,31 @@ function exemplo() {
 exemplo();
 
 /*
-=============================================================
-DESAFIO
-=============================================================
-[Proponha um exercício prático relacionado ao tema. Deve usar
-apenas conceitos já vistos até este arquivo.]
+ * EXERCÍCIO
+ * -------------------------------------------------------------
+ * [Proponha um exercício prático relacionado ao tema. Deve usar
+ * apenas conceitos já vistos até este arquivo.]
+ */
 
-=============================================================
-VOCÊ SABIA? (opcional)
-=============================================================
-[Uma curiosidade extra sobre o tema, algo que poucas pessoas
-sabem ou um detalhe interessante da linguagem/do JavaScript.]
+/*
+ * CURIOSIDADES (opcional)
+ * -------------------------------------------------------------
+ * [Uma curiosidade extra sobre o tema, algo que poucas pessoas
+ * sabem ou um detalhe interessante da linguagem/do JavaScript.]
+ */
 
-=============================================================
-REFERÊNCIAS
-=============================================================
-- MDN Web Docs: [link]
-- Outro material de apoio: [link]
-=============================================================
-*/
+/*
+ * RESUMO
+ * -------------------------------------------------------------
+ * [2-3 frases resumindo o essencial, para quem quer revisar rápido
+ * sem reler tudo.]
+ */
+
+/*
+ * REFERÊNCIAS (opcional)
+ * -------------------------------------------------------------
+ * - MDN Web Docs: [link]
+ * - Outro material de apoio: [link]
+ */
 
 module.exports = { exemplo };
