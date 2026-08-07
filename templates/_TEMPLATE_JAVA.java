@@ -93,18 +93,15 @@ public class NomeDaClasse { // TODO: renomeie seguindo o padrão A0X_Tema (ex: A
     // Sempre que possível, mostre o jeito CORRETO e, em seguida,
     // um jeito ERRADO ou ingênuo, comparando os dois.
 
-    // ✔ Correto
-    // TODO: escreva aqui um exemplo funcional e comentado
 
-    // ❌ Errado / ingênuo
-    // TODO: mostre um erro comum relacionado ao tema, comentando
-    // por que ele é um problema
 
     public static void main(String[] args) {
         // TODO: código de demonstração executável, se fizer sentido
         // para o tema. Nem todo tema precisa de um main funcional
         // (ex: temas mais conceituais podem só ter comentários).
     }
+
+
 
     /*
      * EXERCÍCIO
