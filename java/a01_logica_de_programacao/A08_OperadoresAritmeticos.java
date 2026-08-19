@@ -10,7 +10,7 @@ package a01_logica_de_programacao;
  * @prerequisitos  Variáveis, Constantes, Tipos de Dados
  * @proximos       Operadores Relacionais
  *
- * @autor
+ * @autor          Morcineck
  * @atualizado     19/08/2026
  * @tempoLeitura   12 min
  */
@@ -349,6 +349,8 @@ public class A08_OperadoresAritmeticos {
         // ❌ Possível abordagem ingênua
 
         double total = 100.00 * 3 - 20.00;
+
+        System.out.println("Total (abordagem ingênua): R$ " + total);
 
         /*
          * O cálculo funciona, mas os valores não possuem significado
