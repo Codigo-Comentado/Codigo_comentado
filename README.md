@@ -279,6 +279,19 @@ docs/
  
 ---
 
+## 📜 Licenciamento
+
+O Código Comentado utiliza diferentes licenças de acordo com o tipo de material:
+
+- 📚 Conteúdo educacional: **CC BY-SA 4.0**
+- 💻 Código educacional: **GPL-3.0**
+- 🎨 Nome, logo, Codee e identidade oficial: não incluídos automaticamente nas licenças abertas
+
+Consulte o arquivo [LICENSE.md](./LICENSE.md) para detalhes.
+
+---
+
+
 ## 📜 Manifesto
 
 Acreditamos que conhecimento compartilhado vale mais do que conhecimento guardado.
