@@ -239,6 +239,41 @@ Toda dúvida pode contribuir para melhorar a documentação.
 
 ---
 
+## 📜 Licenciamento das contribuições
+
+Ao contribuir com o **Código Comentado**, você declara que possui os direitos necessários sobre o material enviado e concorda que sua contribuição seja disponibilizada sob a licença aplicável ao tipo de conteúdo enviado.
+
+De forma geral:
+
+* 📚 **Conteúdo educacional**, incluindo roadmaps, trilhas, guias, documentação pedagógica e materiais escritos, é disponibilizado sob a **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+* 💻 **Código-fonte educacional**, incluindo aulas, exemplos e demonstrações executáveis, é disponibilizado sob a **GNU General Public License v3.0 (GPL-3.0)**.
+* 🌐 **Softwares, ferramentas e plataformas** podem possuir licenças específicas, conforme definido no respectivo repositório.
+
+Ao enviar uma contribuição, você também declara que:
+
+* o conteúdo enviado é de sua autoria ou você possui os direitos e permissões necessários para disponibilizá-lo;
+* sua contribuição não viola, de forma consciente, direitos autorais, licenças ou outros direitos de terceiros;
+* materiais de terceiros somente serão incluídos quando sua licença ou autorização permitir sua utilização pelo projeto;
+* você concorda com a distribuição da sua contribuição nos termos da licença aplicável;
+* os créditos e avisos de licença existentes não devem ser removidos indevidamente.
+
+### 🎨 Marca e identidade
+
+As licenças aplicáveis ao código e ao conteúdo educacional não concedem automaticamente direitos sobre a identidade oficial do **Código Comentado**.
+
+O nome **Código Comentado**, o logotipo, o mascote **Codee**, suas representações oficiais e demais elementos de identidade visual não estão automaticamente incluídos nas licenças abertas aplicáveis ao código e ao conteúdo.
+
+### 🔎 Antes de contribuir
+
+Recomendamos a leitura da política completa de licenciamento antes de enviar sua primeira contribuição:
+
+📄 [Política de Licenciamento](./LICENSE.md)
+
+Ao enviar um Pull Request para este repositório, você reconhece que sua contribuição estará sujeita às condições de licenciamento aplicáveis descritas acima e no `LICENSE.md`.
+
+
+---
+
 # ❤️ Obrigado!
 
 O Código Comentado cresce graças às pessoas que compartilham conhecimento.
