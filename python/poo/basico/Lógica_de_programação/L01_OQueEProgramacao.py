@@ -24,9 +24,9 @@
 # ---------------------------------------------------------------
 # COMO FUNCIONA?
 # ---------------------------------------------------------------
-    # Um computador não pensa por conta própria; ele apenas segue ordens. 
-    # A programação funciona quebrando um grande problema em pequenos 
-    # passos lógicos e sequenciais (um algoritmo). O computador lê esses 
+# Um computador não pensa por conta própria; ele apenas segue ordens. 
+# A programação funciona quebrando um grande problema em pequenos 
+# passos lógicos e sequenciais (um algoritmo). O computador lê esses 
 # passos de cima para baixo e os executa de forma literal e exata.
 
 
