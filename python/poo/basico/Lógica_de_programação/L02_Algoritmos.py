@@ -4,7 +4,7 @@
 @trilha         Python → Lógica de Programação → 🟢 Básico
 @nivel          🟢 Básico
 @prerequisitos  L01_OQueEProgramacao
-@proximos       L03_Variaveis
+@proximos       L03_Fluxograma
 @autor          FXArth
 @atualizado     27/08/2026
 @tempoLeitura   10 min
