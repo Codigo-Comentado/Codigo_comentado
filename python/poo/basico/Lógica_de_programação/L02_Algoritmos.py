@@ -5,7 +5,7 @@
 @nivel          🟢 Básico
 @prerequisitos  L01_OQueEProgramacao
 @proximos       L03_Variaveis
-@autor          Seu Nome/Usuário
+@autor          FXArth
 @atualizado     27/08/2026
 @tempoLeitura   10 min
 """
