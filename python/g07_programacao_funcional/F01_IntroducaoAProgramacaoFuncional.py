@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" F01 - Introdução à Programação Funcional
+@modulo         Programação Funcional
+@roadmap        g07_programacao_funcional → F01
+@trilha         Python → Programação Funcional → 🟠 Avançado
+@nivel          🟠 Avançado
+@prerequisitos  Estruturas de Dados
+@proximos       F02_FuncoesDePrimeiraClasse
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

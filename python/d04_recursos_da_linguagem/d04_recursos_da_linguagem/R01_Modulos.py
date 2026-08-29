@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" R01 - Módulos
+@modulo         Recursos da Linguagem
+@roadmap        d04_recursos_da_linguagem → R01
+@trilha         Python → Recursos da Linguagem → 🟡 Intermediário
+@nivel          🟡 Intermediário
+@prerequisitos  Programação Orientada a Objetos
+@proximos       R02_Importacoes
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

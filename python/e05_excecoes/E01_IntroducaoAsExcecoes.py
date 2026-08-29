@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" E01 - Introdução às Exceções
+@modulo         Tratamento de Exceções
+@roadmap        e05_excecoes → E01
+@trilha         Python → Tratamento de Exceções → 🟡 Intermediário
+@nivel          🟡 Intermediário
+@prerequisitos  Recursos da Linguagem
+@proximos       E02_ComoExcecoesFuncionam
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

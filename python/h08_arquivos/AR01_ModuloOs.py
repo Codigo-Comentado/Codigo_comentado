@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" AR01 - Módulo os
+@modulo         Manipulação de Arquivos
+@roadmap        h08_arquivos → AR01
+@trilha         Python → Manipulação de Arquivos → 🟠 Avançado
+@nivel          🟠 Avançado
+@prerequisitos  Programação Funcional
+@proximos       AR02_Pathlib
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

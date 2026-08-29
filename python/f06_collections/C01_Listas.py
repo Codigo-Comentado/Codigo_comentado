@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" C01 - Listas
+@modulo         Estruturas de Dados (Collections)
+@roadmap        f06_collections → C01
+@trilha         Python → Estruturas de Dados → 🟠 Avançado
+@nivel          🟠 Avançado
+@prerequisitos  Tratamento de Exceções
+@proximos       C02_CriacaoDeListas
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

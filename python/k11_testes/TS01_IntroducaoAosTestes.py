@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" TS01 - Introdução aos Testes
+@modulo         Testes
+@roadmap        k11_testes → TS01
+@trilha         Python → Testes → 🔵 Backend
+@nivel          🔵 Backend
+@prerequisitos  Concorrência
+@proximos       TS02_ImportanciaDosTestesAutomatizados
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

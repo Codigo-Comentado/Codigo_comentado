@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" T01 - Introdução à Concorrência
+@modulo         Concorrência
+@roadmap        j10_concorrencia → T01
+@trilha         Python → Concorrência → 🔵 Backend
+@nivel          🔵 Backend
+@prerequisitos  Data e Hora
+@proximos       T02_ProcessosEThreads
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

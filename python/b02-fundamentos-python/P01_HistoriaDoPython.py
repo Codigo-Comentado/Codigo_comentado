@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" P01 - História do Python
+@modulo         Fundamentos do Python
+@roadmap        b02_fundamentos_do_python → P01
+@trilha         Python → Fundamentos do Python → 🟢 Básico
+@nivel          🟢 Básico
+@prerequisitos  Lógica de Programação
+@proximos       P02_CaracteristicasDaLinguagemPython
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

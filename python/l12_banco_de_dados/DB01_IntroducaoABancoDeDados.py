@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" DB01 - Introdução a Banco de Dados
+@modulo         Banco de Dados
+@roadmap        l12_banco_de_dados → DB01
+@trilha         Python → Banco de Dados → 🔵 Backend
+@nivel          🔵 Backend
+@prerequisitos  Testes
+@proximos       DB02_BancoDeDadosRelacionais
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

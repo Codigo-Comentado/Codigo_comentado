@@ -1,14 +1,15 @@
-""" 00 - Aula em Desenvolvimento
-@modulo         Aula em Desenvolvimento
-@roadmap        00_AulaEmDesenvolvimento → 
-@trilha         Python → 🔴
-@nivel          🔴
-@prerequisitos  Pendente
-@proximos       Pendente
-@autor          [Nome]
+""" S01 - Introdução ao Desenvolvimento Web
+@modulo         Frameworks Web
+@roadmap        n14_frameworks_web → S01
+@trilha         Python → Frameworks Web → 🟣 Frameworks
+@nivel          🟣 Frameworks
+@prerequisitos  Gerenciamento de Pacotes
+@proximos       S02_ArquiteturaClienteServidor
+@autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?
