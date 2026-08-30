@@ -1,10 +1,13 @@
-""" E01 - Introdução às Exceções
+""" 
+E01 - Introdução às Exceções
+
 @modulo         Tratamento de Exceções
 @roadmap        e05_excecoes → E01
 @trilha         Python → Tratamento de Exceções → 🟡 Intermediário
 @nivel          🟡 Intermediário
 @prerequisitos  Recursos da Linguagem
 @proximos       E02_ComoExcecoesFuncionam
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

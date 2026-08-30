@@ -1,10 +1,12 @@
-""" DB01 - Introdução a Banco de Dados
+""" 
+DB01 - Introdução a Banco de Dados
 @modulo         Banco de Dados
 @roadmap        l12_banco_de_dados → DB01
 @trilha         Python → Banco de Dados → 🔵 Backend
 @nivel          🔵 Backend
 @prerequisitos  Testes
 @proximos       DB02_BancoDeDadosRelacionais
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

@@ -1,10 +1,13 @@
-""" D01 - Introdução ao Módulo datetime
+""" 
+D01 - Introdução ao Módulo datetime
+
 @modulo         Data e Hora
 @roadmap        i09_data_e_hora → D01
 @trilha         Python → Data e Hora → 🟠 Avançado
 @nivel          🟠 Avançado
 @prerequisitos  Manipulação de Arquivos
 @proximos       D02_ConceitosDeDataEHora
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

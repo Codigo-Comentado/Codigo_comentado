@@ -1,10 +1,13 @@
-""" L01 - O que é Programação
+""" 
+L01 - O que é Programação
+
 @modulo         Lógica de Programação
 @roadmap        c01_logica_de_programacao → L01
 @trilha         Python → Lógica de Programação → 🟢 Básico
 @nivel          🟢 Básico
 @prerequisitos  Nenhum
 @proximos       L02_VariaveisETiposDeDados
+
 @autor          FXArth
 @atualizado     26/08/2026
 @tempoLeitura   10 min

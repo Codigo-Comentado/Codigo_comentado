@@ -1,10 +1,13 @@
-""" T01 - Introdução à Concorrência
+""" 
+T01 - Introdução à Concorrência
+
 @modulo         Concorrência
 @roadmap        j10_concorrencia → T01
 @trilha         Python → Concorrência → 🔵 Backend
 @nivel          🔵 Backend
 @prerequisitos  Data e Hora
 @proximos       T02_ProcessosEThreads
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

@@ -1,10 +1,13 @@
-""" S01 - Introdução ao Desenvolvimento Web
+""" 
+S01 - Introdução ao Desenvolvimento Web
+
 @modulo         Frameworks Web
 @roadmap        n14_frameworks_web → S01
 @trilha         Python → Frameworks Web → 🟣 Frameworks
 @nivel          🟣 Frameworks
 @prerequisitos  Gerenciamento de Pacotes
 @proximos       S02_ArquiteturaClienteServidor
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

@@ -1,10 +1,13 @@
-""" L02 - Algoritmos
+""" 
+L02 - Algoritmos
+
 @modulo         Lógica de Programação
 @roadmap        c01_logica_de_programacao → L02
 @trilha         Python → Lógica de Programação → 🟢 Básico
 @nivel          🟢 Básico
 @prerequisitos  L01_OQueEProgramacao
 @proximos       L03_Fluxograma
+
 @autor          FXArth
 @atualizado     27/08/2026
 @tempoLeitura   10 min

@@ -1,10 +1,13 @@
-""" P01 - História do Python
+""" 
+P01 - História do Python
+
 @modulo         Fundamentos do Python
 @roadmap        b02_fundamentos_do_python → P01
 @trilha         Python → Fundamentos do Python → 🟢 Básico
 @nivel          🟢 Básico
 @prerequisitos  Lógica de Programação
 @proximos       P02_CaracteristicasDaLinguagemPython
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

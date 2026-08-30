@@ -1,10 +1,13 @@
-""" R01 - Módulos
+""" 
+R01 - Módulos
+
 @modulo         Recursos da Linguagem
 @roadmap        d04_recursos_da_linguagem → R01
 @trilha         Python → Recursos da Linguagem → 🟡 Intermediário
 @nivel          🟡 Intermediário
 @prerequisitos  Programação Orientada a Objetos
 @proximos       R02_Importacoes
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

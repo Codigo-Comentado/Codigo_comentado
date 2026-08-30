@@ -1,10 +1,13 @@
-""" AR01 - Módulo os
+""" 
+AR01 - Módulo os
+
 @modulo         Manipulação de Arquivos
 @roadmap        h08_arquivos → AR01
 @trilha         Python → Manipulação de Arquivos → 🟠 Avançado
 @nivel          🟠 Avançado
 @prerequisitos  Programação Funcional
 @proximos       AR02_Pathlib
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

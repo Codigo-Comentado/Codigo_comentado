@@ -1,10 +1,13 @@
-""" TS01 - Introdução aos Testes
+""" 
+TS01 - Introdução aos Testes
+
 @modulo         Testes
 @roadmap        k11_testes → TS01
 @trilha         Python → Testes → 🔵 Backend
 @nivel          🔵 Backend
 @prerequisitos  Concorrência
 @proximos       TS02_ImportanciaDosTestesAutomatizados
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

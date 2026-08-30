@@ -1,10 +1,13 @@
-""" ARQ01 - Clean Code
+""" 
+ARQ01 - Clean Code
+
 @modulo         Arquitetura e Boas Práticas
 @roadmap        o15_arquitetura → ARQ01
 @trilha         Python → Arquitetura e Boas Práticas → 🔴 Arquitetura
 @nivel          🔴 Arquitetura
 @prerequisitos  Frameworks Web
 @proximos       ARQ02_PEP8
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -

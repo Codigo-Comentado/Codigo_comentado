@@ -1,10 +1,13 @@
-""" B01 - Instalação de Pacotes
+""" 
+B01 - Instalação de Pacotes
+
 @modulo         Gerenciamento de Pacotes
 @roadmap        m13_gerenciamento_de_pacotes → B01
 @trilha         Python → Gerenciamento de Pacotes → 🔵 Backend
 @nivel          🔵 Backend
 @prerequisitos  Banco de Dados
 @proximos       B02_Pip
+
 @autor          Seu Nome/Usuário
 @atualizado     28/08/2026
 @tempoLeitura   -
