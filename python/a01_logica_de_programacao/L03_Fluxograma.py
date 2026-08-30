@@ -1,14 +1,18 @@
-""" L03 - Fluxograma
+""" 
+L03 - Fluxograma
+
 @modulo         Lógica de Programação
 @roadmap        c01_logica_de_programacao → L03
 @trilha         Python → Lógica de Programação → 🟢 Básico
 @nivel          🟢 Básico
 @prerequisitos  L02_Algoritmos
 @proximos       L04_Pseudocodigo
+
 @autor          FXArth
 @atualizado     27/08/2026
 @tempoLeitura   10 min
 """
+
 
 # ---------------------------------------------------------------
 # O QUE É?

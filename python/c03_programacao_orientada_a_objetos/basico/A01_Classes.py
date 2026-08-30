@@ -13,6 +13,7 @@ A01 - Classes
 @tempoLeitura   10 min
 """
 
+
 # TODO: renomeie este arquivo seguindo o padrão A0X_Tema.py
 
 
