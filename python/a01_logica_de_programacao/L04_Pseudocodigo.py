@@ -8,8 +8,8 @@ L04 - Pseudocódigo
 @prerequisitos  L03_Fluxograma
 @proximos       L05_Variaveis
 
-@autor          Seu Nome/Usuário
-@atualizado     30/08/2026
+@autor          FXArth
+@atualizado     21/09/2026
 @tempoLeitura   10 min
 """
 
