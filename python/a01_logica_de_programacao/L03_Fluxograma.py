@@ -218,6 +218,6 @@ if __name__ == "__main__":
 
 
 # ---------------------------------------------------------------
-# REFERÊNCIAS (opcional)
+# REFERÊNCIAS
 # ---------------------------------------------------------------
 # - Símbolos de fluxograma (Lucidchart): https://www.lucidchart.com/pages/pt/simbolos-de-fluxograma

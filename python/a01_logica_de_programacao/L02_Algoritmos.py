@@ -157,7 +157,7 @@ if __name__ == "__main__":
 
 
 # ---------------------------------------------------------------
-# CURIOSIDADES (opcional)
+# CURIOSIDADES 
 # ---------------------------------------------------------------
 # A palavra "algoritmo" tem origem no nome do matemático persa do 
 # século IX, Abdullah Muhammad bin Musa al-Khwarizmi. Os europeus 
@@ -176,6 +176,6 @@ if __name__ == "__main__":
 
 
 # ---------------------------------------------------------------
-# REFERÊNCIAS (opcional)
+# REFERÊNCIAS
 # ---------------------------------------------------------------
 # - O que é um Algoritmo? (Khan Academy): https://pt.khanacademy.org/computing/computer-science/algorithms
